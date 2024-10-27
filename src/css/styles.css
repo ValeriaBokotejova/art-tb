@@ -1,0 +1,44 @@
+@import './header.css';
+@import './hero.css';
+@import './about.css';
+@import './collections.css';
+@import './footer.css';
+@import './paintings.css';
+
+:root {
+  --font-family: "Montaga", sans-serif;
+  --second-family: "Montserrat", sans-serif;
+  --third-family: "Caveat", sans-serif;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-style: normal;
+    font-optical-sizing: auto;
+    background-color: #f4f4f4;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+ul, ol {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
