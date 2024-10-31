@@ -1,3 +1,88 @@
-div {
-    display: block;
+#hero {
+  padding: 0;
+}
+
+#hero .container {
+    padding-top: 80px;
+}
+@media (min-width: 1440px) {
+    #hero .container {
+        padding: 125px 120px 0 720px;
+}
+}
+@media (min-width: 1920px) {
+    #hero .container {
+        padding-left: 970px;
+}
+}
+
+.title {
+  width: 314px;
+  font-weight: 700;
+  font-size: 45px;
+  text-align: left;
+}
+.hero-desc {
+  width: 260px;
+  margin-top: 30px;
+  font-family: Montserrat;
+  font-size: 15px;
+  text-align: left;
+}
+
+.btn-hero {
+  margin-top: 85px;
+  background-color: var(--primary-brand);
+  border-radius: 38px;
+  min-width: 250px;
+  height: 65px;
+}
+.btn-hero:hover {
+    background-color: var(--blue);
+}
+.btn-hero-text {
+  color: var(--btn-text);
+  font-family: var(--second-family);
+  font-size: 17px;
+  font-weight: 600;
+}
+
+@media (min-width: 768px) {
+  .title {
+    width: 555px;
+    font-size: 80px;
+  }
+  .hero-desc {
+    width: 389px;
+    margin-top: 45px;
+    font-size: 26px;
+    line-height: 1.73;
+  }
+
+  .btn-hero {
+    margin-top: 100px;
+    min-width: 283px;
+    height: 75px;
+  }
+  .btn-hero-text {
+    font-size: 20px;
+  }
+}
+@media (min-width: 1440px) {
+  .title {
+    width: 600px;
+    font-size: 90px;
+  }
+  .hero-desc {
+    width: 460px;
+    margin-top: 25px;
+    font-size: 28px;
+    line-height: 1.6;
+  }
+
+  .btn-hero {
+    margin-top: 70px;
+    min-width: 283px;
+    height: 75px;
+  }
 }
