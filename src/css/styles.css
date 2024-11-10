@@ -89,8 +89,8 @@ h2 {
 /* #region common */
 
 section {
-  padding-top: 40px;
-  padding-bottom: 40px;
+  padding-top: 80px;
+  padding-bottom: 80px;
 }
 .container {
   max-width: 100%;
@@ -111,6 +111,43 @@ section {
 @media (min-width: 1920px) {
   .container {
     max-width: 1920px;
+  }
+}
+
+.section-title {
+  font-family: var(--third-family);
+  color: var(--text);
+  text-align: center;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: normal;
+}
+@media (min-width: 768px) {
+  .section-title {
+    font-size: 65px;
+  }
+}
+@media (min-width: 1440px) {
+  .section-title {
+    font-size: 79px;
+  }
+}
+
+.section-text {
+  font-family: var(--second-family);
+  color: var(--text);
+  text-align: center;
+  font-size: 16px;
+}
+@media (min-width: 768px) {
+  .section-text {
+    font-size: 24px;
+  }
+}
+@media (min-width: 1440px) {
+  .section-text {
+    font-size: 38px;
+    line-height: 1.18;
   }
 }
 /* #endregion common */
