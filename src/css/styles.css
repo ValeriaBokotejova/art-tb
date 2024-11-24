@@ -117,7 +117,6 @@ section {
 .section-title {
   font-family: var(--third-family);
   color: var(--text);
-  text-align: center;
   font-size: 40px;
   font-weight: 700;
   line-height: normal;
@@ -136,7 +135,6 @@ section {
 .section-text {
   font-family: var(--second-family);
   color: var(--text);
-  text-align: center;
   font-size: 16px;
 }
 @media (min-width: 768px) {

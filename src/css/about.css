@@ -26,10 +26,17 @@
   gap: 40px;
   max-width: 310px;
 }
+.about-me-text {
+  text-align: center;
+}
 @media (min-width: 768px) {
   .about-me-content {
+    align-items: start;
     gap: 30px;
     max-width: 350px;
+  }
+  .about-me-text {
+    text-align: left;
   }
 }
 @media (min-width: 1440px) {
