@@ -35,16 +35,16 @@
   border-radius: 38px;
   min-width: 250px;
   height: 65px;
-}
-.btn-paintings:hover {
-    background-color: var(--blue);
-}
-.btn-paintings-text {
+
   color: var(--btn-text);
   font-family: var(--second-family);
   font-size: 17px;
   font-weight: 600;
 }
+.btn-paintings:hover {
+    background-color: var(--blue);
+}
+
 .hero-btn-paintings {
   margin-top: 85px;
 }
@@ -66,8 +66,6 @@
   .btn-paintings {
     min-width: 283px;
     height: 75px;
-  }
-  .btn-paintings-text {
     font-size: 20px;
   }
 }
