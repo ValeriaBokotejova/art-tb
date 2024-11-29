@@ -1,192 +1,197 @@
 #art-collections .container {
-    display: flex;
-    flex-direction: column;
-    gap: 40px;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
 }
 @media (min-width: 1920px) {
-    #art-collections .container {
+  #art-collections .container {
     gap: 60px;
-}
+  }
 }
 .collections-header {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 .collections-content {
-    display: flex;
-    flex-direction: column;
-    gap: 40px;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
 }
 
 .collections-title {
-    text-align: center;
+  text-align: center;
 }
 .collections-text {
-    text-align: center;
-    max-width: 311px;
+  text-align: center;
+  max-width: 311px;
 }
 .collections-btn-paintings {
-    display: none;
+  display: none;
 }
 @media (min-width: 768px) {
-    .collections-text {
-        max-width: 460px;
-    }
+  .collections-text {
+    max-width: 460px;
+  }
 }
 @media (min-width: 1440px) {
-    .collections-btn-paintings {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-    }
-    .collections-header {
-        justify-content: space-between;
-        align-items: baseline;
-    }
-    .collections-text {
-        text-align: left;
-        max-width: 688px;
-    }
-    .collections-content {
-        align-items: start;
-    }
-}
-@media (min-width: 1920px) {
-    .collections-text {
-        max-width: 1115px;
-    }
-    .collections-content {
-        gap: 60px;
-    }
-}
-.collections {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 30px;
-    list-style: none;
-    margin: 0 auto;
-}
-@media (min-width: 768px) {
-    .collections {
-        gap: 44px;
-    }
-}
-@media (min-width: 1440px) {
-    .collections {
-        grid-template-columns: repeat(3, 1fr);
-        gap: 60px;
-    }
-}
-@media (min-width: 1920px) {
-    .collections {
-        gap: 165px;
-    }
-}
-.collection-card {
-    background-size: cover;
-    background-position: center;
-    border-radius: 30px;
-    color: #fff;
-    min-height: 170px;
-    max-width: 140px;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    align-items: center;
-    padding: 30px 10px;
-    position: relative;
-    overflow: hidden;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-}
-@media (min-width: 768px) {
-    .collection-card {
-        min-height: 500px;
-        min-width: 330px;
-        padding: 80px 10px;
-    }
-}
-@media (min-width: 1440px) {
-    .collection-card {
-        min-width: 360px;
-        padding: 75px 10px;
-    }
-}
-@media (min-width: 1920px) {
-    .collection-card {
-        min-height: 560px;
-        min-width: 450px;
-        padding: 100px 10px;
-    }
-}
-#art-collections h3 {
-    font-size: 20px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: normal;
-}
-.collections-desc {
-    text-align: center;
-    font-size: 10px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: normal;
-}
-.btn-collection {
-    max-width: 110px;
-    border-radius: 30px;
-    padding: 2px 8px;
+  .collections-btn-paintings {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: var(--primary-brand);
-    transition: background-color 0.3s ease;
+  }
+  .collections-header {
+    justify-content: space-between;
+    align-items: baseline;
+  }
+  .collections-text {
+    text-align: left;
+    max-width: 688px;
+  }
+  .collections-content {
+    align-items: start;
+  }
+}
+@media (min-width: 1920px) {
+  .collections-text {
+    max-width: 1115px;
+  }
+  .collections-content {
+    gap: 60px;
+  }
+}
+.collections {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 30px;
+  list-style: none;
+  margin: 0 auto;
+}
+@media (min-width: 768px) {
+  .collections {
+    gap: 44px;
+  }
+}
+@media (min-width: 1440px) {
+  .collections {
+    grid-template-columns: repeat(3, 1fr);
+    gap: 60px;
+  }
+}
+@media (min-width: 1920px) {
+  .collections {
+    gap: 165px;
+  }
+}
+.collection-card {
+  background-size: cover;
+  background-position: center;
+  border-radius: 30px;
+  color: #fff;
+  min-height: 170px;
+  max-width: 140px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px 10px;
+  position: relative;
+  overflow: hidden;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+@media (min-width: 768px) {
+  .collection-card {
+    min-height: 500px;
+    min-width: 330px;
+    padding: 80px 10px;
+  }
+}
+@media (min-width: 1440px) {
+  .collection-card {
+    min-width: 360px;
+    padding: 75px 10px;
+  }
+}
+@media (min-width: 1920px) {
+  .collection-card {
+    min-height: 560px;
+    min-width: 450px;
+    padding: 100px 10px;
+  }
+}
+#art-collections h3 {
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.collections-desc {
+  text-align: center;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.btn-collection {
+  max-width: 110px;
+  border-radius: 30px;
+  padding: 2px 8px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--primary-brand);
+  transition: background-color 0.3s ease;
 
-    text-align: center;
-    color: var(--btn-text);
-    font-size: 10px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: normal;
+  text-align: center;
+  color: var(--btn-text);
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
 }
 .btn-collection:hover {
-    background-color: var(--blue);
+  background-color: var(--blue);
 }
 
 @media (min-width: 768px) {
-    #art-collections h3 {
-        font-size: 45px;
-    }
-    .collections-desc {
-        font-size: 30px;
-    }
-    .btn-collection {
-        max-width: 220px;
-        padding: 8px 22px;
-        font-size: 25px;
-    }
+  #art-collections h3 {
+    font-size: 45px;
+  }
+  .collections-desc {
+    font-size: 30px;
+  }
+  .btn-collection {
+    max-width: 220px;
+    padding: 8px 22px;
+    font-size: 25px;
+  }
 }
 .collection-people {
-  background-image: var(--bg-gradient-dark), url('/public/images/collections/people.jpg');
+  background-image: var(--bg-gradient-dark),
+    url('/public/images/collections/people.jpg');
 }
 
 .collection-animals {
-  background-image: var(--bg-gradient-dark), url('/public/images/collections/animals.jpg');
+  background-image: var(--bg-gradient-dark),
+    url('/public/images/collections/animals.jpg');
 }
 
 .collection-nature {
-  background-image: var(--bg-gradient-dark), url('/public/images/collections/nature.jpg');
+  background-image: var(--bg-gradient-dark),
+    url('/public/images/collections/nature.jpg');
 }
 
 .collection-flowers {
-  background-image: var(--bg-gradient-dark), url('/public/images/collections/flowers.jpg');
+  background-image: var(--bg-gradient-dark),
+    url('/public/images/collections/flowers.jpg');
 }
 
 .collection-sea {
-  background-image: var(--bg-gradient-dark), url('/public/images/collections/sea.jpg');
+  background-image: var(--bg-gradient-dark),
+    url('/public/images/collections/sea.jpg');
 }
 
 .collection-fruits {
-  background-image: var(--bg-gradient-dark), url('/public/images/collections/fruits.jpg');
+  background-image: var(--bg-gradient-dark),
+    url('/public/images/collections/fruits.jpg');
 }

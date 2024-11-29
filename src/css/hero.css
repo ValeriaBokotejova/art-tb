@@ -3,17 +3,17 @@
 }
 
 #hero .container {
-    padding-top: 80px;
+  padding-top: 80px;
 }
 @media (min-width: 1440px) {
-    #hero .container {
-        padding: 125px 120px 0 720px;
-}
+  #hero .container {
+    padding: 125px 120px 0 720px;
+  }
 }
 @media (min-width: 1920px) {
-    #hero .container {
-        padding-left: 970px;
-}
+  #hero .container {
+    padding-left: 970px;
+  }
 }
 
 .title {
@@ -42,7 +42,7 @@
   font-weight: 600;
 }
 .btn-paintings:hover {
-    background-color: var(--blue);
+  background-color: var(--blue);
 }
 
 .hero-btn-paintings {
