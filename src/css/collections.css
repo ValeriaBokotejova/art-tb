@@ -168,30 +168,30 @@
 }
 .collection-people {
   background-image: var(--bg-gradient-dark),
-    url('/public/images/collections/people.jpg');
+    url('/src/assets/images/collections/people.jpg');
 }
 
 .collection-animals {
   background-image: var(--bg-gradient-dark),
-    url('/public/images/collections/animals.jpg');
+    url('/src/assets/images/collections/animals.jpg');
 }
 
 .collection-nature {
   background-image: var(--bg-gradient-dark),
-    url('/public/images/collections/nature.jpg');
+    url('/src/assets/images/collections/nature.jpg');
 }
 
 .collection-flowers {
   background-image: var(--bg-gradient-dark),
-    url('/public/images/collections/flowers.jpg');
+    url('/src/assets/images/collections/flowers.jpg');
 }
 
 .collection-sea {
   background-image: var(--bg-gradient-dark),
-    url('/public/images/collections/sea.jpg');
+    url('/src/assets/images/collections/sea.jpg');
 }
 
 .collection-fruits {
   background-image: var(--bg-gradient-dark),
-    url('/public/images/collections/fruits.jpg');
+    url('/src/assets/images/collections/fruits.jpg');
 }

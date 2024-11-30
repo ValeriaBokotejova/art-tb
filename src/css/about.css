@@ -1,6 +1,6 @@
 #about-me {
   min-height: 436px;
-  background: url(/images/about/bg.jpg) no-repeat center / cover;
+  background: url(/src/assets/images/about/bg.jpg) no-repeat center / cover;
   color: var(--text);
 }
 #about-me .container {
