@@ -10,6 +10,11 @@
       href="https://fonts.googleapis.com/css2?family=Caveat:wght@400;700&family=Montaga:wght@400&family=Montserrat:wght@400;600&display=swap"
       rel="stylesheet"
     />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/simplelightbox/dist/simple-lightbox.min.css"
+    />
+    <script src="https://cdn.jsdelivr.net/npm/simplelightbox/dist/simple-lightbox.min.js"></script>
   </head>
   <body>
     <header>
@@ -34,13 +39,14 @@
 
       <div class="sub-nav">
         <div class="container">
-          <nav>
-            <a href="">Animals</a>
-            <a href="">People</a>
-            <a href="">Nature</a>
-            <a href="">Flowers</a>
-            <a href="">Sea</a>
-            <a href="">Fruits</a>
+          <nav class="categories-nav">
+            <a href="#" data-category="all" class="active">All</a>
+            <a href="#" data-category="animals">Animals</a>
+            <a href="#" data-category="people">People</a>
+            <a href="#" data-category="nature">Nature</a>
+            <a href="#" data-category="flowers">Flowers</a>
+            <a href="#" data-category="sea">Sea</a>
+            <a href="#" data-category="fruits">Fruits</a>
           </nav>
         </div>
       </div>
@@ -56,5 +62,6 @@
     <footer id="footer"></footer>
 
     <script type="module" src="/src/js/main.js"></script>
+    <script type="module" src="/src/js/paintings.js"></script>
   </body>
 </html>

@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "title": {
+      "en": "Journey through stars",
+      "cz": "Cesta po hvězdách"
+    },
+    "description": {
+      "en": "oil painting, 50x70, 2023",
+      "cz": "olejomalba, 50x70, 2023"
+    },
+    "image": "/gallery/people/journey_through_stars.jpg",
+    "category": "people"
+  },
+  {
+    "id": 2,
+    "title": {
+      "en": "Girl in a white hat",
+      "cz": "Dívka v bilém klobouku"
+    },
+    "description": {
+      "en": "oil painting, 50x70, 2023",
+      "cz": "olejomalba, 50x70, 2023"
+    },
+    "image": "/gallery/people/girl_in_a_white_hat.jpg",
+    "category": "people"
+  }
+]

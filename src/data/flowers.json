@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "title": {
+      "en": "White cosmos",
+      "cz": "Bilá kosmeja"
+    },
+    "description": {
+      "en": "oil painting, 40x50, 2023",
+      "cz": "olejomalba, 40x50, 2023"
+    },
+    "image": "/gallery/flowers/white_cosmos.jpg",
+    "category": "flowers"
+  },
+  {
+    "id": 2,
+    "title": {
+      "en": "Violets",
+      "cz": "Fialky"
+    },
+    "description": {
+      "en": "oil painting, 40x40, 2023",
+      "cz": "olejomalba, 40x40, 2023"
+    },
+    "image": "/gallery/flowers/violets.jpg",
+    "category": "flowers"
+  }
+]

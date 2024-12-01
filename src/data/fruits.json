@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "title": {
+      "en": "Lemons",
+      "cz": "Citrony"
+    },
+    "description": {
+      "en": "oil painting, palette knife, 50x60, 2023",
+      "cz": "olejomalba, špátel, 50x60, 2023"
+    },
+    "image": "/gallery/fruits/lemons.jpg",
+    "category": "fruits"
+  },
+  {
+    "id": 2,
+    "title": {
+      "en": "Tea Party",
+      "cz": "Čajový dýchánek"
+    },
+    "description": {
+      "en": "oil painting, 50x70, 2023",
+      "cz": "olejomalba, 50x70, 2023"
+    },
+    "image": "/gallery/fruits/tea_party.jpg",
+    "category": "fruits"
+  }
+]
