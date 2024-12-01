@@ -50,10 +50,31 @@ function renderGallery(paintings) {
   initializeLightbox();
 }
 
+function getCategoryFromURL() {
+  const params = new URLSearchParams(window.location.search);
+  return params.get('category') || 'all';
+}
+
+function filterPaintingsByCategory(category) {
+  if (category === 'all') {
+    return allPaintings;
+  }
+  return allPaintings.filter(painting => painting.category === category);
+}
+
 function setupCategoryButtons() {
   const categoryButtons = document.querySelectorAll('.categories-nav a');
+  const currentCategory = getCategoryFromURL();
 
   categoryButtons.forEach(button => {
+    const buttonCategory = button.dataset.category;
+
+    if (buttonCategory === currentCategory) {
+      button.classList.add('active');
+    } else {
+      button.classList.remove('active');
+    }
+
     button.addEventListener('click', event => {
       event.preventDefault();
 
@@ -61,20 +82,20 @@ function setupCategoryButtons() {
       button.classList.add('active');
 
       const category = button.dataset.category;
-
-      const paintingsToShow =
-        category === 'all'
-          ? allPaintings
-          : allPaintings.filter(painting => painting.category === category);
-
+      const paintingsToShow = filterPaintingsByCategory(category);
       renderGallery(paintingsToShow);
+
+      history.pushState(null, '', `?category=${category}`);
     });
   });
 }
 
 function init() {
+  const category = getCategoryFromURL();
+  const paintingsToShow = filterPaintingsByCategory(category);
+
+  renderGallery(paintingsToShow);
   setupCategoryButtons();
-  renderGallery(allPaintings);
 }
 
 init();
