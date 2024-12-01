@@ -17,16 +17,23 @@
     <script src="https://cdn.jsdelivr.net/npm/simplelightbox/dist/simple-lightbox.min.js"></script>
   </head>
   <body>
-    <header>
+    <header id="paintings-header">
       <div class="top-nav">
         <div class="container">
           <div class="logo">
-            <a href="/index.html">Tamara Bokotej</a>
+            <a href="/index.html" aria-label="Go to Tamara Bokotej homepage"
+              >Tamara Bokotej</a
+            >
           </div>
-          <nav>
-            <a href="/index.html" aria-label="Tamara Bokotej Homepage">Home</a>
-            <a href="/paintings.html">View All Paintings</a>
-            <a href="#footer">Contact</a>
+          <nav aria-label="Main navigation">
+            <ul class="navigation-list">
+              <li>
+                <a href="/index.html" aria-label="Tamara Bokotej Homepage"
+                  >Home</a
+                >
+              </li>
+              <li><a href="#footer">Contact</a></li>
+            </ul>
           </nav>
           <nav aria-label="Language selection" class="language-switcher">
             <ul>
@@ -34,19 +41,34 @@
               <li><a href="/cz" lang="cs" hreflang="cs">CZ</a></li>
             </ul>
           </nav>
+          <button
+            class="menu-btn"
+            type="button"
+            aria-label="Open navigation menu"
+          >
+            <svg class="burger-menu" width="24" height="24">
+              <use href="/src/assets/sprite.svg#icon-burger-menu"></use>
+            </svg>
+          </button>
         </div>
       </div>
 
       <div class="sub-nav">
         <div class="container">
-          <nav class="categories-nav">
-            <a href="#" data-category="all" class="active">All</a>
-            <a href="#" data-category="animals">Animals</a>
-            <a href="#" data-category="people">People</a>
-            <a href="#" data-category="nature">Nature</a>
-            <a href="#" data-category="flowers">Flowers</a>
-            <a href="#" data-category="sea">Sea</a>
-            <a href="#" data-category="fruits">Fruits</a>
+          <nav class="categories-nav" aria-label="Painting categories">
+            <ul class="categories-list">
+              <li>
+                <a href="#" data-category="all" class="active"
+                  >View All Paintings</a
+                >
+              </li>
+              <li><a href="#" data-category="animals">Animals</a></li>
+              <li><a href="#" data-category="people">People</a></li>
+              <li><a href="#" data-category="nature">Nature</a></li>
+              <li><a href="#" data-category="flowers">Flowers</a></li>
+              <li><a href="#" data-category="sea">Sea</a></li>
+              <li><a href="#" data-category="fruits">Fruits</a></li>
+            </ul>
           </nav>
         </div>
       </div>
