@@ -9,7 +9,7 @@
       "en": "oil painting, 40x50, 2023",
       "cz": "olejomalba, 40x50, 2023"
     },
-    "image": "/gallery/flowers/white_cosmos.jpg",
+    "image": "./gallery/flowers/white_cosmos.jpg",
     "category": "flowers"
   },
   {
@@ -22,7 +22,7 @@
       "en": "oil painting, 40x40, 2023",
       "cz": "olejomalba, 40x40, 2023"
     },
-    "image": "/gallery/flowers/violets.jpg",
+    "image": "./gallery/flowers/violets.jpg",
     "category": "flowers"
   }
 ]

@@ -9,7 +9,7 @@
       "en": "oil painting, 50x70, 2023",
       "cz": "olejomalba, 50x70, 2023"
     },
-    "image": "/gallery/people/journey_through_stars.jpg",
+    "image": "./gallery/people/journey_through_stars.jpg",
     "category": "people"
   },
   {
@@ -22,7 +22,7 @@
       "en": "oil painting, 50x70, 2023",
       "cz": "olejomalba, 50x70, 2023"
     },
-    "image": "/gallery/people/girl_in_a_white_hat.jpg",
+    "image": "./gallery/people/girl_in_a_white_hat.jpg",
     "category": "people"
   }
 ]

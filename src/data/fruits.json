@@ -9,7 +9,7 @@
       "en": "oil painting, palette knife, 50x60, 2023",
       "cz": "olejomalba, špátel, 50x60, 2023"
     },
-    "image": "/gallery/fruits/lemons.jpg",
+    "image": "./gallery/fruits/lemons.jpg",
     "category": "fruits"
   },
   {
@@ -22,7 +22,7 @@
       "en": "oil painting, 50x70, 2023",
       "cz": "olejomalba, 50x70, 2023"
     },
-    "image": "/gallery/fruits/tea_party.jpg",
+    "image": "./gallery/fruits/tea_party.jpg",
     "category": "fruits"
   }
 ]

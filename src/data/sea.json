@@ -9,7 +9,7 @@
       "en": "texture paste, oil painting, 70x50, 2023",
       "cz": "text.pasta, olejomalba, 70x50, 2023"
     },
-    "image": "/gallery/sea/dolphins.jpg",
+    "image": "./gallery/sea/dolphins.jpg",
     "category": "sea"
   },
   {
@@ -22,7 +22,7 @@
       "en": "oil painting, 50x70, 2023",
       "cz": "olejomalba, 50x70, 2023"
     },
-    "image": "/gallery/sea/yachts_on_the_sea.jpg",
+    "image": "./gallery/sea/yachts_on_the_sea.jpg",
     "category": "sea"
   }
 ]

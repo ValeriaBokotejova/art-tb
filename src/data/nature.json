@@ -9,7 +9,7 @@
       "en": "oil painting, 50x70, 2024",
       "cz": "olejomalba, 50x70, 2024"
     },
-    "image": "/gallery/nature/venice.jpg",
+    "image": "./gallery/nature/venice.jpg",
     "category": "nature"
   },
   {
@@ -22,7 +22,7 @@
       "en": "oil painting, 40x50, 2024",
       "cz": "olejomalba, 40x50, 2024"
     },
-    "image": "/gallery/nature/cedar_on_the_rock.jpg",
+    "image": "./gallery/nature/cedar_on_the_rock.jpg",
     "category": "nature"
   }
 ]

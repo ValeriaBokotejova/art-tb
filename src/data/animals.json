@@ -9,7 +9,7 @@
       "en": "oil painting, 50x70, 2024",
       "cz": "olejomalba, 50x70, 2024"
     },
-    "image": "/gallery/animals/african_elephants.jpg",
+    "image": "./gallery/animals/african_elephants.jpg",
     "category": "animals"
   },
   {
@@ -22,7 +22,7 @@
       "en": "acrylic, 40x50, 2023",
       "cz": "akryl, 40x50, 2023"
     },
-    "image": "/gallery/animals/white_tigers.jpg",
+    "image": "./gallery/animals/white_tigers.jpg",
     "category": "animals"
   }
 ]
