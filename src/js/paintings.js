@@ -24,13 +24,14 @@ function initializeLightbox() {
   });
 }
 
+const basePath = import.meta.env.BASE_URL;
 function createPaintingCard(painting) {
   const card = document.createElement('a');
-  card.href = painting.image;
+  card.href = `${basePath}${painting.image}`;
   card.classList.add('gallery-item');
   card.innerHTML = `
     <img 
-      src="${painting.image}" 
+      src="${basePath}${painting.image}" 
       alt="${painting.title[currentLanguage]} (${painting.description[currentLanguage]})" 
       loading="lazy"
     />
