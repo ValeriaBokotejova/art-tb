@@ -6,7 +6,7 @@ export default defineConfig(({ command }) => {
   const isDev = command === 'serve';
   return {
     root: '.',
-    base: isDev ? '/' : '/art-tb/',
+    base: '/',
     build: {
       rollupOptions: {
         input: {
