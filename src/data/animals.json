@@ -10,10 +10,95 @@
       "cz": "olejomalba, 50x70, 2024"
     },
     "image": "./gallery/animals/african_elephants.jpg",
+    "thumbnail": "./gallery/animals/thumbnails/african_elephants.jpg",
     "category": "animals"
   },
   {
     "id": 2,
+    "title": {
+      "en": "Dragon - Symbol of 2024",
+      "cz": "Drak-symbol roku 2024"
+    },
+    "description": {
+      "en": "oil painting, 50x70, 2024",
+      "cz": "olejomalba, 50x70, 2024"
+    },
+    "image": "./gallery/animals/dragon_symbol_of_2024.jpg",
+    "thumbnail": "./gallery/animals/thumbnails/dragon_symbol_of_2024.jpg",
+    "category": "animals"
+  },
+  {
+    "id": 3,
+    "title": {
+      "en": "Playful Horse",
+      "cz": "Hravý kůň"
+    },
+    "description": {
+      "en": "oil painting, 50x70, 2024",
+      "cz": "olejomalba, 50x70, 2024"
+    },
+    "image": "./gallery/animals/playful_horse.jpg",
+    "thumbnail": "./gallery/animals/thumbnails/playful_horse.jpg",
+    "category": "animals"
+  },
+  {
+    "id": 4,
+    "title": {
+      "en": "Bullfinches",
+      "cz": "Hýli"
+    },
+    "description": {
+      "en": "oil painting, 50x70, 2023",
+      "cz": "olejomalba, 50x70, 2023"
+    },
+    "image": "./gallery/animals/bullfinches.jpg",
+    "thumbnail": "./gallery/animals/thumbnails/bullfinches.jpg",
+    "category": "animals"
+  },
+  {
+    "id": 5,
+    "title": {
+      "en": "Cat in the Leaves",
+      "cz": "Kocour v listí"
+    },
+    "description": {
+      "en": "watercolor, 20x30, 2022",
+      "cz": "akvarel, 20X30, 2022"
+    },
+    "image": "./gallery/animals/cat_in_the_leaves.jpg",
+    "thumbnail": "./gallery/animals/thumbnails/cat_in_the_leaves.jpg",
+    "category": "animals"
+  },
+  {
+    "id": 6,
+    "title": {
+      "en": "Cat",
+      "cz": "Kocour"
+    },
+    "description": {
+      "en": "oil painting, 50x50, 2023",
+      "cz": "olejomalba, 50x50, 2023"
+    },
+    "image": "./gallery/animals/cat.jpg",
+    "thumbnail": "./gallery/animals/thumbnails/cat.jpg",
+    "category": "animals"
+  },
+  {
+    "id": 7,
+    "title": {
+      "en": "Kitten",
+      "cz": "Kocourek"
+    },
+    "description": {
+      "en": "oil painting, 30x40, 2024",
+      "cz": "olejomalba, 30x40, 2024"
+    },
+    "image": "./gallery/animals/kitten.jpg",
+    "thumbnail": "./gallery/animals/thumbnails/kitten.jpg",
+    "category": "animals"
+  },
+  {
+    "id": 8,
     "title": {
       "en": "White Tigers",
       "cz": "Bílí tygři"
@@ -23,6 +108,21 @@
       "cz": "akryl, 40x50, 2023"
     },
     "image": "./gallery/animals/white_tigers.jpg",
+    "thumbnail": "./gallery/animals/thumbnails/white_tigers.jpg",
+    "category": "animals"
+  },
+  {
+    "id": 9,
+    "title": {
+      "en": "Storks on the Roof",
+      "cz": "Čápi na střeše"
+    },
+    "description": {
+      "en": "oil painting, 50x70, 2024",
+      "cz": "olejomalba, 50x70, 2024"
+    },
+    "image": "./gallery/animals/storks_on_the_roof.jpg",
+    "thumbnail": "./gallery/animals/thumbnails/storks_on_the_roof.jpg",
     "category": "animals"
   }
 ]

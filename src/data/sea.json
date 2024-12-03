@@ -10,6 +10,7 @@
       "cz": "text.pasta, olejomalba, 70x50, 2023"
     },
     "image": "./gallery/sea/dolphins.jpg",
+    "thumbnail": "./gallery/sea/thumbnails/dolphins.jpg",
     "category": "sea"
   },
   {
@@ -23,6 +24,175 @@
       "cz": "olejomalba, 50x70, 2023"
     },
     "image": "./gallery/sea/yachts_on_the_sea.jpg",
+    "thumbnail": "./gallery/sea/thumbnails/yachts_on_the_sea.jpg",
+    "category": "sea"
+  },
+  {
+    "id": 3,
+    "title": {
+      "en": "Lake in the Mountains",
+      "cz": "Jezero v horách"
+    },
+    "description": {
+      "en": "oil painting, 50x70, 2024",
+      "cz": "olejomalba, 50x70, 2024"
+    },
+    "image": "./gallery/sea/lake_in_the_mountains.jpg",
+    "thumbnail": "./gallery/sea/thumbnails/lake_in_the_mountains.jpg",
+    "category": "sea"
+  },
+  {
+    "id": 4,
+    "title": {
+      "en": "Swans over the Sea",
+      "cz": "Labutě nad mořem"
+    },
+    "description": {
+      "en": "oil painting, 2023",
+      "cz": "olejomalba, 2023"
+    },
+    "image": "./gallery/sea/swans_over_the_sea.jpg",
+    "thumbnail": "./gallery/sea/thumbnails/swans_over_the_sea.jpg",
+    "category": "sea"
+  },
+  {
+    "id": 5,
+    "title": {
+      "en": "Boat on the Shore",
+      "cz": "Lod´ na břehu"
+    },
+    "description": {
+      "en": "oil painting, 40x40, 2023",
+      "cz": "olejomalba, 40x40, 2023"
+    },
+    "image": "./gallery/sea/boat_on_the_shore.jpg",
+    "thumbnail": "./gallery/sea/thumbnails/boat_on_the_shore.jpg",
+    "category": "sea"
+  },
+  {
+    "id": 6,
+    "title": {
+      "en": "Aniva Lighthouse",
+      "cz": "Maják Aniva"
+    },
+    "description": {
+      "en": "oil painting, 50x70, 2023",
+      "cz": "olejomalba, 50x70, 2023"
+    },
+    "image": "./gallery/sea/aniva_lighthouse.jpg",
+    "thumbnail": "./gallery/sea/thumbnails/aniva_lighthouse.jpg",
+    "category": "sea"
+  },
+  {
+    "id": 7,
+    "title": {
+      "en": "Underwater World",
+      "cz": "Morský svět"
+    },
+    "description": {
+      "en": "oil painting, 50x70, 2023",
+      "cz": "olejomalba, 50x70, 2023"
+    },
+    "image": "./gallery/sea/underwater_world.jpg",
+    "thumbnail": "./gallery/sea/thumbnails/underwater_world.jpg",
+    "category": "sea"
+  },
+  {
+    "id": 8,
+    "title": {
+      "en": "Sea",
+      "cz": "Moře"
+    },
+    "description": {
+      "en": "oil painting, 50x70, 2023",
+      "cz": "olejomalba, 50x70, 2023"
+    },
+    "image": "./gallery/sea/sea.jpg",
+    "thumbnail": "./gallery/sea/thumbnails/sea.jpg",
+    "category": "sea"
+  },
+  {
+    "id": 9,
+    "title": {
+      "en": "Sea Wave",
+      "cz": "Mořská vlna"
+    },
+    "description": {
+      "en": "oil painting, 50x50, 2023",
+      "cz": "olejomalba, 50x50, 2023"
+    },
+    "image": "./gallery/sea/sea_wave.jpg",
+    "thumbnail": "./gallery/sea/thumbnails/sea_wave.jpg",
+    "category": "sea"
+  },
+  {
+    "id": 10,
+    "title": {
+      "en": "Coastline",
+      "cz": "Pobřeží"
+    },
+    "description": {
+      "en": "acrylic, 40x50, 2023",
+      "cz": "akryl, 40x50, 2023"
+    },
+    "image": "./gallery/sea/coastline.jpg",
+    "thumbnail": "./gallery/sea/thumbnails/coastline.jpg",
+    "category": "sea"
+  },
+  {
+    "id": 11,
+    "title": {
+      "en": "Liquid Acrylic 1",
+      "cz": "Tekutý akryl 1"
+    },
+    "description": {
+      "en": "liquid acrylic, 30x40, 2022",
+      "cz": "tekutý akryl, 30x40, 2022"
+    },
+    "image": "./gallery/sea/liquid_acrylic_1.jpg",
+    "thumbnail": "./gallery/sea/thumbnails/liquid_acrylic_1.jpg",
+    "category": "sea"
+  },
+  {
+    "id": 12,
+    "title": {
+      "en": "Liquid Acrylic 2",
+      "cz": "Tekutý akryl 2"
+    },
+    "description": {
+      "en": "liquid acrylic, 30x40, 2022",
+      "cz": "tekutý akryl, 30x40, 2022"
+    },
+    "image": "./gallery/sea/liquid_acrylic_2.jpg",
+    "thumbnail": "./gallery/sea/thumbnails/liquid_acrylic_2.jpg",
+    "category": "sea"
+  },
+  {
+    "id": 13,
+    "title": {
+      "en": "Wave on the Sea",
+      "cz": "Vlna na moře"
+    },
+    "description": {
+      "en": "oil painting, 50x70, 3024",
+      "cz": "olejomalba, 50x70, 3024"
+    },
+    "image": "./gallery/sea/wave_on_the_sea.jpg",
+    "thumbnail": "./gallery/sea/thumbnails/wave_on_the_sea.jpg",
+    "category": "sea"
+  },
+  {
+    "id": 14,
+    "title": {
+      "en": "Sunset",
+      "cz": "Západ slunce"
+    },
+    "description": {
+      "en": "acrylic, 40x40, 2024",
+      "cz": "akryl, 40x40, 2024"
+    },
+    "image": "./gallery/sea/sunset.jpg",
+    "thumbnail": "./gallery/sea/thumbnails/sunset.jpg",
     "category": "sea"
   }
 ]

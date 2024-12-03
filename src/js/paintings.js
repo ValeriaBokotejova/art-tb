@@ -31,7 +31,7 @@ function createPaintingCard(painting) {
   card.classList.add('gallery-item');
   card.innerHTML = `
     <img 
-      src="${basePath}${painting.image}" 
+      src="${basePath}${painting.thumbnail}" 
       alt="${painting.title[currentLanguage]} (${painting.description[currentLanguage]})" 
       loading="lazy"
     />

@@ -10,6 +10,7 @@
       "cz": "olejomalba, špátel, 50x60, 2023"
     },
     "image": "./gallery/fruits/lemons.jpg",
+    "thumbnail": "./gallery/fruits/thumbnails/lemons.jpg",
     "category": "fruits"
   },
   {
@@ -23,6 +24,105 @@
       "cz": "olejomalba, 50x70, 2023"
     },
     "image": "./gallery/fruits/tea_party.jpg",
+    "thumbnail": "./gallery/fruits/thumbnails/tea_party.jpg",
+    "category": "fruits"
+  },
+  {
+    "id": 3,
+    "title": {
+      "en": "Jug and Cherry",
+      "cz": "Dřban a višeň"
+    },
+    "description": {
+      "en": "oil painting, 50x70, 2024",
+      "cz": "olejomalba, 50x70, 2024"
+    },
+    "image": "./gallery/fruits/jug_and_cherry.jpg",
+    "thumbnail": "./gallery/fruits/thumbnails/jug_and_cherry.jpg",
+    "category": "fruits"
+  },
+  {
+    "id": 4,
+    "title": {
+      "en": "Burning Candle",
+      "cz": "Hořící svíčka"
+    },
+    "description": {
+      "en": "oil painting, 40x50, 2024",
+      "cz": "olejomalba, 40x50, 2024"
+    },
+    "image": "./gallery/fruits/burning_candle.jpg",
+    "thumbnail": "./gallery/fruits/thumbnails/burning_candle.jpg",
+    "category": "fruits"
+  },
+  {
+    "id": 5,
+    "title": {
+      "en": "Apples in Winter",
+      "cz": "Jablka v zimě"
+    },
+    "description": {
+      "en": "oil painting, 50x50, 2024",
+      "cz": "olejomalba, 50x50, 2024"
+    },
+    "image": "./gallery/fruits/apples_in_winter.jpg",
+    "thumbnail": "./gallery/fruits/thumbnails/apples_in_winter.jpg",
+    "category": "fruits"
+  },
+  {
+    "id": 6,
+    "title": {
+      "en": "Basket of Oranges",
+      "cz": "Košik pomeranců"
+    },
+    "description": {
+      "en": "oil painting, 40x50, 2023",
+      "cz": "olejomalba, 40x50, 2023"
+    },
+    "image": "./gallery/fruits/basket_of_oranges.jpg",
+    "thumbnail": "./gallery/fruits/thumbnails/basket_of_oranges.jpg",
+    "category": "fruits"
+  },
+  {
+    "id": 7,
+    "title": {
+      "en": "Basket of Fruits",
+      "cz": "Košik s ovoce"
+    },
+    "description": {
+      "en": "oil painting, 40x50, 2024",
+      "cz": "olejomalba, 40x50, 2024"
+    },
+    "image": "./gallery/fruits/basket_of_fruits.jpg",
+    "thumbnail": "./gallery/fruits/thumbnails/basket_of_fruits.jpg",
+    "category": "fruits"
+  },
+  {
+    "id": 8,
+    "title": {
+      "en": "Large Basket of Fruits",
+      "cz": "Košík s ovoce"
+    },
+    "description": {
+      "en": "oil painting, 60x80, 2023",
+      "cz": "olejomalba, 60x80, 2023"
+    },
+    "image": "./gallery/fruits/large_basket_of_fruits.jpg",
+    "thumbnail": "./gallery/fruits/thumbnails/large_basket_of_fruits.jpg",
+    "category": "fruits"
+  },
+  {
+    "id": 9,
+    "title": {
+      "en": "Bowl with Crayfish",
+      "cz": "Misa s raky"
+    },
+    "description": {
+      "en": "oil painting, 50x70, 2024",
+      "cz": "olejomalba, 50x70, 2024"
+    },
+    "image": "./gallery/fruits/bowl_with_crayfish.jpg",
+    "thumbnail": "./gallery/fruits/thumbnails/bowl_with_crayfish.jpg",
     "category": "fruits"
   }
 ]

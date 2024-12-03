@@ -10,6 +10,7 @@
       "cz": "olejomalba, 40x50, 2023"
     },
     "image": "./gallery/flowers/white_cosmos.jpg",
+    "thumbnail": "./gallery/flowers/thumbnails/white_cosmos.jpg",
     "category": "flowers"
   },
   {
@@ -23,6 +24,91 @@
       "cz": "olejomalba, 40x40, 2023"
     },
     "image": "./gallery/flowers/violets.jpg",
+    "thumbnail": "./gallery/flowers/thumbnails/violets.jpg",
+    "category": "flowers"
+  },
+  {
+    "id": 3,
+    "title": {
+      "en": "Violets",
+      "cz": "Fialky"
+    },
+    "description": {
+      "en": "oil painting, 40x40, 2024",
+      "cz": "olejomalba, 40x40, 2024"
+    },
+    "image": "./gallery/flowers/fialky.jpg",
+    "thumbnail": "./gallery/flowers/thumbnails/fialky.jpg",
+    "category": "flowers"
+  },
+  {
+    "id": 4,
+    "title": {
+      "en": "Gingo Biloba",
+      "cz": "Gingo Biloba"
+    },
+    "description": {
+      "en": "acrylic and texture paste, 40x50, 2024",
+      "cz": "akryl a text. pasta, 40x50, 2024"
+    },
+    "image": "./gallery/flowers/gingo_biloba.jpg",
+    "thumbnail": "./gallery/flowers/thumbnails/gingo_biloba.jpg",
+    "category": "flowers"
+  },
+  {
+    "id": 5,
+    "title": {
+      "en": "Hydrangeas",
+      "cz": "Hortenzie"
+    },
+    "description": {
+      "en": "oil painting, 50x50, 2024",
+      "cz": "olejomalba, 50x50, 2024"
+    },
+    "image": "./gallery/flowers/hortenzie.jpg",
+    "thumbnail": "./gallery/flowers/thumbnails/hortenzie.jpg",
+    "category": "flowers"
+  },
+  {
+    "id": 6,
+    "title": {
+      "en": "Chrysanthemums",
+      "cz": "Chryzantémy"
+    },
+    "description": {
+      "en": "oil painting, 40x50, 2023",
+      "cz": "olejomalba, 40x50, 2023"
+    },
+    "image": "./gallery/flowers/chryzantemy.jpg",
+    "thumbnail": "./gallery/flowers/thumbnails/chryzantemy.jpg",
+    "category": "flowers"
+  },
+  {
+    "id": 7,
+    "title": {
+      "en": "Indoor Plant",
+      "cz": "Interiérna kýtka"
+    },
+    "description": {
+      "en": "oil painting, 50x50, 2024",
+      "cz": "olejomalba, 50x50, 2024"
+    },
+    "image": "./gallery/flowers/interierna_kytka.jpg",
+    "thumbnail": "./gallery/flowers/thumbnails/interierna_kytka.jpg",
+    "category": "flowers"
+  },
+  {
+    "id": 8,
+    "title": {
+      "en": "Irises",
+      "cz": "Irisy"
+    },
+    "description": {
+      "en": "oil painting with palette knife, 40x50, 2024",
+      "cz": "olejomalba, špátel, 40x50, 2024"
+    },
+    "image": "./gallery/flowers/irisy.jpg",
+    "thumbnail": "./gallery/flowers/thumbnails/irisy.jpg",
     "category": "flowers"
   }
 ]

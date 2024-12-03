@@ -10,6 +10,7 @@
       "cz": "olejomalba, 50x70, 2024"
     },
     "image": "./gallery/nature/venice.jpg",
+    "thumbnail": "./gallery/nature/thumbnails/venice.jpg",
     "category": "nature"
   },
   {
@@ -23,6 +24,91 @@
       "cz": "olejomalba, 40x50, 2024"
     },
     "image": "./gallery/nature/cedar_on_the_rock.jpg",
+    "thumbnail": "./gallery/nature/thumbnails/cedar_on_the_rock.jpg",
+    "category": "nature"
+  },
+  {
+    "id": 3,
+    "title": {
+      "en": "Storks",
+      "cz": "Čápy"
+    },
+    "description": {
+      "en": "oil painting, 50x70, 2023",
+      "cz": "olejomalba, 50x70, 2023"
+    },
+    "image": "./gallery/nature/storks.jpg",
+    "thumbnail": "./gallery/nature/thumbnails/storks.jpg",
+    "category": "nature"
+  },
+  {
+    "id": 4,
+    "title": {
+      "en": "Mount Ararat",
+      "cz": "Hora Ararat"
+    },
+    "description": {
+      "en": "palette knife oil painting, 40x30, 2023",
+      "cz": "špatel, olej, 40x30, 2023"
+    },
+    "image": "./gallery/nature/mount_ararat.jpg",
+    "thumbnail": "./gallery/nature/thumbnails/mount_ararat.jpg",
+    "category": "nature"
+  },
+  {
+    "id": 5,
+    "title": {
+      "en": "Temple in Winter",
+      "cz": "Chrám v zimě"
+    },
+    "description": {
+      "en": "oil painting, 50x70, 2023",
+      "cz": "olejomalba, 50x70, 2023"
+    },
+    "image": "./gallery/nature/temple_in_winter.jpg",
+    "thumbnail": "./gallery/nature/thumbnails/temple_in_winter.jpg",
+    "category": "nature"
+  },
+  {
+    "id": 6,
+    "title": {
+      "en": "Irises at Sunset",
+      "cz": "Irisy při západu slunce"
+    },
+    "description": {
+      "en": "oil painting, 50x50, 2024",
+      "cz": "olejomalba, 50x50, 2024"
+    },
+    "image": "./gallery/nature/irises_at_sunset.jpg",
+    "thumbnail": "./gallery/nature/thumbnails/irises_at_sunset.jpg",
+    "category": "nature"
+  },
+  {
+    "id": 7,
+    "title": {
+      "en": "Italy",
+      "cz": "Itálie"
+    },
+    "description": {
+      "en": "oil painting, 50x50, 2024",
+      "cz": "olejomalba, 50x50, 2024"
+    },
+    "image": "./gallery/nature/italy.jpg",
+    "thumbnail": "./gallery/nature/thumbnails/italy.jpg",
+    "category": "nature"
+  },
+  {
+    "id": 8,
+    "title": {
+      "en": "Spring",
+      "cz": "Jaro"
+    },
+    "description": {
+      "en": "oil painting, 40x50, 2024",
+      "cz": "olejomalba, 40x50, 2024"
+    },
+    "image": "./gallery/nature/spring.jpg",
+    "thumbnail": "./gallery/nature/thumbnails/spring.jpg",
     "category": "nature"
   }
 ]

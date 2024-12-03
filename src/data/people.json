@@ -10,6 +10,7 @@
       "cz": "olejomalba, 50x70, 2023"
     },
     "image": "./gallery/people/journey_through_stars.jpg",
+    "thumbnail": "./gallery/people/thumbnails/journey_through_stars.jpg",
     "category": "people"
   },
   {
@@ -23,6 +24,175 @@
       "cz": "olejomalba, 50x70, 2023"
     },
     "image": "./gallery/people/girl_in_a_white_hat.jpg",
+    "thumbnail": "./gallery/people/thumbnails/girl_in_a_white_hat.jpg",
+    "category": "people"
+  },
+  {
+    "id": 3,
+    "title": {
+      "en": "Flamenco",
+      "cz": "Flamengo"
+    },
+    "description": {
+      "en": "oil painting, 50x70, 2023",
+      "cz": "olejomalba, 50x70, 2023"
+    },
+    "image": "./gallery/people/flamenco.jpg",
+    "thumbnail": "./gallery/people/thumbnails/flamenco.jpg",
+    "category": "people"
+  },
+  {
+    "id": 4,
+    "title": {
+      "en": "Cat and Mouse",
+      "cz": "Kočka-myš"
+    },
+    "description": {
+      "en": "oil painting, 40x60, 2023",
+      "cz": "olejomalba, 40x60, 2023"
+    },
+    "image": "./gallery/people/cat_and_mouse.jpg",
+    "thumbnail": "./gallery/people/thumbnails/cat_and_mouse.jpg",
+    "category": "people"
+  },
+  {
+    "id": 5,
+    "title": {
+      "en": "I Love Budapest",
+      "cz": "Milují Budapešt"
+    },
+    "description": {
+      "en": "palette knife oil painting, 50x70, 2023",
+      "cz": "olejomalba, špátel, 50x70, 2023"
+    },
+    "image": "./gallery/people/i_love_budapest.jpg",
+    "thumbnail": "./gallery/people/thumbnails/i_love_budapest.jpg",
+    "category": "people"
+  },
+  {
+    "id": 6,
+    "title": {
+      "en": "Young Woman",
+      "cz": "Mladá žena"
+    },
+    "description": {
+      "en": "palette knife oil painting, 50x70, 2023",
+      "cz": "olejomalba, špatel, 50x70, 2023"
+    },
+    "image": "./gallery/people/young_woman.jpg",
+    "thumbnail": "./gallery/people/thumbnails/young_woman.jpg",
+    "category": "people"
+  },
+  {
+    "id": 7,
+    "title": {
+      "en": "Modern Portrait",
+      "cz": "Moderní portret"
+    },
+    "description": {
+      "en": "oil painting, 50x50, 2024",
+      "cz": "olejomalba, 50x50, 2024"
+    },
+    "image": "./gallery/people/modern_portrait.jpg",
+    "thumbnail": "./gallery/people/thumbnails/modern_portrait.jpg",
+    "category": "people"
+  },
+  {
+    "id": 8,
+    "title": {
+      "en": "Modern Portrait",
+      "cz": "Moderní portret"
+    },
+    "description": {
+      "en": "dry brush oil painting, 30x40, 2024",
+      "cz": "suchý štětec, olej, 30x40, 2024"
+    },
+    "image": "./gallery/people/modern_portrait_dry_brush.jpg",
+    "thumbnail": "./gallery/people/thumbnails/modern_portrait_dry_brush.jpg",
+    "category": "people"
+  },
+  {
+    "id": 9,
+    "title": {
+      "en": "My Ukraine",
+      "cz": "Moje Ukrajina"
+    },
+    "description": {
+      "en": "acrylic, 50x50, 2023",
+      "cz": "akryl, 50x50, 2023"
+    },
+    "image": "./gallery/people/my_ukraine_50x50.jpg",
+    "thumbnail": "./gallery/people/thumbnails/my_ukraine_50x50.jpg",
+    "category": "people"
+  },
+  {
+    "id": 10,
+    "title": {
+      "en": "My Ukraine",
+      "cz": "Moje Ukrajina"
+    },
+    "description": {
+      "en": "acrylic, 50x70, 2023",
+      "cz": "akryl, 50x70, 2023"
+    },
+    "image": "./gallery/people/my_ukraine_50x70.jpg",
+    "thumbnail": "./gallery/people/thumbnails/my_ukraine_50x70.jpg",
+    "category": "people"
+  },
+  {
+    "id": 11,
+    "title": {
+      "en": "My Ukraine",
+      "cz": "Moje Ukrajina"
+    },
+    "description": {
+      "en": "author technique, acrylic, 40x50, 2023",
+      "cz": "autorská technika, akryl, 40x50, 2023"
+    },
+    "image": "./gallery/people/my_ukraine_author_technique.jpg",
+    "thumbnail": "./gallery/people/thumbnails/my_ukraine_author_technique.jpg",
+    "category": "people"
+  },
+  {
+    "id": 12,
+    "title": {
+      "en": "In the Garden",
+      "cz": "Na zahradě"
+    },
+    "description": {
+      "en": "oil painting, 50x70, 2024",
+      "cz": "olejomalba, 50x70, 2024"
+    },
+    "image": "./gallery/people/in_the_garden.jpg",
+    "thumbnail": "./gallery/people/thumbnails/in_the_garden.jpg",
+    "category": "people"
+  },
+  {
+    "id": 13,
+    "title": {
+      "en": "At the Castle",
+      "cz": "Na zámku"
+    },
+    "description": {
+      "en": "oil painting, 50x70, 2024",
+      "cz": "olejomalba, 50x70, 2024"
+    },
+    "image": "./gallery/people/at_the_castle.jpg",
+    "thumbnail": "./gallery/people/thumbnails/at_the_castle.jpg",
+    "category": "people"
+  },
+  {
+    "id": 14,
+    "title": {
+      "en": "Pirate Woman",
+      "cz": "Pirátka"
+    },
+    "description": {
+      "en": "oil painting, 40x60, 2024",
+      "cz": "olejomalba, 40x60, 2024"
+    },
+    "image": "./gallery/people/pirate_woman.jpg",
+    "thumbnail": "./gallery/people/thumbnails/pirate_woman.jpg",
     "category": "people"
   }
 ]
