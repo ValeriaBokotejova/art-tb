@@ -4,6 +4,7 @@
 @import './collections.css';
 @import './footer.css';
 @import './paintings.css';
+@import './mobile-menu.css';
 
 /* #region variables */
 :root {
@@ -31,8 +32,10 @@
   --primary-brand: #ffcf01;
   --pressed-state: #f4c600;
   --blue: #85ccf3;
+  --purple: rgb(180, 178, 214);
   --text: #69402a;
   --btn-text: #0a0702;
+  --menu-text: rgba(105, 64, 42, 1);
   --modal-overlay: rgba(0, 0, 0, 0.4);
 }
 /* #endregion variables */
@@ -181,6 +184,7 @@ section {
 @media (min-width: 1920px) {
   #header-hero-container {
     background: var(--bg-gradient-dark),
-      url('/src/assets/images/hero/bg_large_des@1x.jpg') no-repeat center / cover;
+      url('/src/assets/images/hero/bg_large_des@1x.jpg') no-repeat center /
+        cover;
   }
 }
