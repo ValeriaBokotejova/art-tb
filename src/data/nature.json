@@ -110,5 +110,173 @@
     "image": "./gallery/nature/spring.jpg",
     "thumbnail": "./gallery/nature/thumbnails/spring.jpg",
     "category": "nature"
+  },
+  {
+    "id": 9,
+    "title": {
+      "en": "Rowan Near the Temple",
+      "cz": "Jeřáb u chrámu"
+    },
+    "description": {
+      "en": "oil painting, 50x50, 2024",
+      "cz": "olejomalba, 50x50, 2024"
+    },
+    "image": "./gallery/nature/rowan_near_the_temple.jpg",
+    "thumbnail": "./gallery/nature/thumbnails/rowan_near_the_temple.jpg",
+    "category": "nature"
+  },
+  {
+    "id": 10,
+    "title": {
+      "en": "Carpathians",
+      "cz": "Karpaty"
+    },
+    "description": {
+      "en": "oil painting, 50x70, 2024",
+      "cz": "olejomalba, 50x70, 2024"
+    },
+    "image": "./gallery/nature/carpathians.jpg",
+    "thumbnail": "./gallery/nature/thumbnails/carpathians.jpg",
+    "category": "nature"
+  },
+  {
+    "id": 11,
+    "title": {
+      "en": "Kyiv's Independence Square",
+      "cz": "Kyjevské náměstí Nezávislosti"
+    },
+    "description": {
+      "en": "dry brush, 50x50, 2023",
+      "cz": "suchý štětec, 50x50, 2023"
+    },
+    "image": "./gallery/nature/kyiv_independence_square.jpg",
+    "thumbnail": "./gallery/nature/thumbnails/kyiv_independence_square.jpg",
+    "category": "nature"
+  },
+  {
+    "id": 12,
+    "title": {
+      "en": "Forest Stream",
+      "cz": "Lesný potůček"
+    },
+    "description": {
+      "en": "acrylic, 30x40, 2023",
+      "cz": "akryl, 30x40, 2023"
+    },
+    "image": "./gallery/nature/forest_stream.jpg",
+    "thumbnail": "./gallery/nature/thumbnails/forest_stream.jpg",
+    "category": "nature"
+  },
+  {
+    "id": 13,
+    "title": {
+      "en": "Lavender",
+      "cz": "Levandulé"
+    },
+    "description": {
+      "en": "oil painting, 40x40, 2023",
+      "cz": "olejomalba, 40x40, 2023"
+    },
+    "image": "./gallery/nature/lavender.jpg",
+    "thumbnail": "./gallery/nature/thumbnails/lavender.jpg",
+    "category": "nature"
+  },
+  {
+    "id": 14,
+    "title": {
+      "en": "My Paris",
+      "cz": "Moje Paříž"
+    },
+    "description": {
+      "en": "oil painting, 40x50, 2024",
+      "cz": "olejomalba, 40x50, 2024"
+    },
+    "image": "./gallery/nature/my_paris.jpg",
+    "thumbnail": "./gallery/nature/thumbnails/my_paris.jpg",
+    "category": "nature"
+  },
+  {
+    "id": 15,
+    "title": {
+      "en": "Lavender Field",
+      "cz": "Levandulové pole"
+    },
+    "description": {
+      "en": "oil painting, 40x60, 2024",
+      "cz": "olejomalba, 40x60, 2024"
+    },
+    "image": "./gallery/nature/lavender_field.jpg",
+    "thumbnail": "./gallery/nature/thumbnails/lavender_field.jpg",
+    "category": "nature"
+  },
+  {
+    "id": 16,
+    "title": {
+      "en": "Autumn by the Water Mill",
+      "cz": "Podzim u vodného mlýnu"
+    },
+    "description": {
+      "en": "oil painting, 40x50, 2024",
+      "cz": "olejomalba, 40x50, 2024"
+    },
+    "image": "./gallery/nature/autumn_by_the_water_mill.jpg",
+    "thumbnail": "./gallery/nature/thumbnails/autumn_by_the_water_mill.jpg",
+    "category": "nature"
+  },
+  {
+    "id": 17,
+    "title": {
+      "en": "Tatras",
+      "cz": "Tatry"
+    },
+    "description": {
+      "en": "oil painting, 50x70, 2024",
+      "cz": "olejomalba, 50x70, 2024"
+    },
+    "image": "./gallery/nature/tatras.jpg",
+    "thumbnail": "./gallery/nature/thumbnails/tatras.jpg",
+    "category": "nature"
+  },
+  {
+    "id": 18,
+    "title": {
+      "en": "Terrace by the River",
+      "cz": "Terasa u řeky"
+    },
+    "description": {
+      "en": "oil painting, 60x80, 2024",
+      "cz": "olejomalba, 60x80, 2024"
+    },
+    "image": "./gallery/nature/terrace_by_the_river.jpg",
+    "thumbnail": "./gallery/nature/thumbnails/terrace_by_the_river.jpg",
+    "category": "nature"
+  },
+  {
+    "id": 19,
+    "title": {
+      "en": "Christmas Season",
+      "cz": "Vánoční období"
+    },
+    "description": {
+      "en": "oil painting, 50x70, 2023",
+      "cz": "olejomalba, 50x70, 2023"
+    },
+    "image": "./gallery/nature/christmas_season.jpg",
+    "thumbnail": "./gallery/nature/thumbnails/christmas_season.jpg",
+    "category": "nature"
+  },
+  {
+    "id": 20,
+    "title": {
+      "en": "Winter",
+      "cz": "Zima"
+    },
+    "description": {
+      "en": "acrylic, 40x40, 2022",
+      "cz": "akryl, 40x40, 2022"
+    },
+    "image": "./gallery/nature/winter.jpg",
+    "thumbnail": "./gallery/nature/thumbnails/winter.jpg",
+    "category": "nature"
   }
 ]

@@ -70,7 +70,7 @@
 
 .paintings-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
   gap: 16px;
   padding: 16px;
 }
@@ -86,6 +86,7 @@
 
 .paintings-grid a:hover {
   transform: scale(1.02);
+  backface-visibility: hidden;
 }
 
 .paintings-grid img {

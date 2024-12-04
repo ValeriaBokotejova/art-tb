@@ -58,6 +58,76 @@
   {
     "id": 5,
     "title": {
+      "en": "Winter Magic",
+      "cz": "Zimní magie"
+    },
+    "description": {
+      "en": "oil painting, 50x70, 2023",
+      "cz": "olejomalba, 50x70, 2023"
+    },
+    "image": "./gallery/animals/winter_magic.jpg",
+    "thumbnail": "./gallery/animals/thumbnails/winter_magic.jpg",
+    "category": "animals"
+  },
+  {
+    "id": 6,
+    "title": {
+      "en": "Hare",
+      "cz": "Zajíc"
+    },
+    "description": {
+      "en": "oil painting, 40x60, 2023",
+      "cz": "olejomalba, 40x60, 2023"
+    },
+    "image": "./gallery/animals/hare.jpg",
+    "thumbnail": "./gallery/animals/thumbnails/hare.jpg",
+    "category": "animals"
+  },
+  {
+    "id": 7,
+    "title": {
+      "en": "On a Walk",
+      "cz": "Na procházce"
+    },
+    "description": {
+      "en": "oil painting, 50x70, 2024",
+      "cz": "olejomalba, 50x70, 2024"
+    },
+    "image": "./gallery/animals/on_a_walk.jpg",
+    "thumbnail": "./gallery/animals/thumbnails/on_a_walk.jpg",
+    "category": "animals"
+  },
+  {
+    "id": 8,
+    "title": {
+      "en": "Swan Fidelity",
+      "cz": "Lebeďí věrnost"
+    },
+    "description": {
+      "en": "oil painting, 40x50, 2024",
+      "cz": "olejomalba, 40x50, 2024"
+    },
+    "image": "./gallery/animals/swan_fidelity.jpg",
+    "thumbnail": "./gallery/animals/thumbnails/swan_fidelity.jpg",
+    "category": "animals"
+  },
+  {
+    "id": 9,
+    "title": {
+      "en": "Elephant in the Mist",
+      "cz": "Slon ve mlze"
+    },
+    "description": {
+      "en": "oil painting, 50x70",
+      "cz": "olejomalba, 50x70"
+    },
+    "image": "./gallery/animals/elephant_in_the_mist.jpg",
+    "thumbnail": "./gallery/animals/thumbnails/elephant_in_the_mist.jpg",
+    "category": "animals"
+  },
+  {
+    "id": 10,
+    "title": {
       "en": "Cat in the Leaves",
       "cz": "Kocour v listí"
     },
@@ -70,7 +140,7 @@
     "category": "animals"
   },
   {
-    "id": 6,
+    "id": 11,
     "title": {
       "en": "Cat",
       "cz": "Kocour"
@@ -84,7 +154,7 @@
     "category": "animals"
   },
   {
-    "id": 7,
+    "id": 12,
     "title": {
       "en": "Kitten",
       "cz": "Kocourek"
@@ -98,7 +168,7 @@
     "category": "animals"
   },
   {
-    "id": 8,
+    "id": 13,
     "title": {
       "en": "White Tigers",
       "cz": "Bílí tygři"
@@ -112,7 +182,7 @@
     "category": "animals"
   },
   {
-    "id": 9,
+    "id": 14,
     "title": {
       "en": "Storks on the Roof",
       "cz": "Čápi na střeše"
