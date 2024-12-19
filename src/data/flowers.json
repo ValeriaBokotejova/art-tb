@@ -110,5 +110,159 @@
     "image": "./gallery/flowers/irisy.jpg",
     "thumbnail": "./gallery/flowers/thumbnails/irisy.jpg",
     "category": "flowers"
+  },
+  {
+    "id": 9,
+    "title": {
+      "en": "Gentle Peonies",
+      "cz": "Jemné pivoňky"
+    },
+    "description": {
+      "en": "oil painting, 50x70, 2024",
+      "cz": "olejomalba, 50x70, 2024"
+    },
+    "image": "./gallery/flowers/gentle_peonies.jpg",
+    "thumbnail": "./gallery/flowers/thumbnails/gentle_peonies.jpg",
+    "category": "flowers"
+  },
+  {
+    "id": 10,
+    "title": {
+      "en": "Bookshelf",
+      "cz": "Knižní regal"
+    },
+    "description": {
+      "en": "oil painting, 40x40, 2023",
+      "cz": "olejomalba, 40x40, 2023"
+    },
+    "image": "./gallery/flowers/bookshelf.jpg",
+    "thumbnail": "./gallery/flowers/thumbnails/bookshelf.jpg",
+    "category": "flowers"
+  },
+  {
+    "id": 11,
+    "title": {
+      "en": "Lilies of the Valley",
+      "cz": "Konvalinky"
+    },
+    "description": {
+      "en": "oil painting, 40x50, 2024",
+      "cz": "olejomalba, 40x50, 2024"
+    },
+    "image": "./gallery/flowers/lilies_of_the_valley.jpg",
+    "thumbnail": "./gallery/flowers/thumbnails/lilies_of_the_valley.jpg",
+    "category": "flowers"
+  },
+  {
+    "id": 12,
+    "title": {
+      "en": "Lilies of the Valley",
+      "cz": "Konvalinky"
+    },
+    "description": {
+      "en": "oil painting, 50x70, 2023",
+      "cz": "olejomalba, 50x70, 2023"
+    },
+    "image": "./gallery/flowers/lilies_of_the_valley_2.jpg",
+    "thumbnail": "./gallery/flowers/thumbnails/lilies_of_the_valley_2.jpg",
+    "category": "flowers"
+  },
+  {
+    "id": 13,
+    "title": {
+      "en": "Apple Blossom",
+      "cz": "Květ jabloní"
+    },
+    "description": {
+      "en": "oil painting, 50x70, 2023",
+      "cz": "olejomalba, 50x70, 2023"
+    },
+    "image": "./gallery/flowers/apple_blossom.jpg",
+    "thumbnail": "./gallery/flowers/thumbnails/apple_blossom.jpg",
+    "category": "flowers"
+  },
+  {
+    "id": 14,
+    "title": {
+      "en": "Bouquet of Roses",
+      "cz": "Kytice růží"
+    },
+    "description": {
+      "en": "oil painting, 50x50, 2023",
+      "cz": "olejomalba, 50x50, 2023"
+    },
+    "image": "./gallery/flowers/bouquet_of_roses.jpg",
+    "thumbnail": "./gallery/flowers/thumbnails/bouquet_of_roses.jpg",
+    "category": "flowers"
+  },
+  {
+    "id": 15,
+    "title": {
+      "en": "Interior Flower",
+      "cz": "Kytka pro interiér"
+    },
+    "description": {
+      "en": "acrylic and gold, 50x70, 2024",
+      "cz": "akryl, zláto, 50x70, 2024"
+    },
+    "image": "./gallery/flowers/interior_flower.jpg",
+    "thumbnail": "./gallery/flowers/thumbnails/interior_flower.jpg",
+    "category": "flowers"
+  },
+  {
+    "id": 16,
+    "title": {
+      "en": "Flower",
+      "cz": "Kytka"
+    },
+    "description": {
+      "en": "oil painting, 20x30, 2024",
+      "cz": "olejomalba, 20x30, 2024"
+    },
+    "image": "./gallery/flowers/flower.jpg",
+    "thumbnail": "./gallery/flowers/thumbnails/flower.jpg",
+    "category": "flowers"
+  },
+  {
+    "id": 17,
+    "title": {
+      "en": "Flower with Texture",
+      "cz": "Kytka"
+    },
+    "description": {
+      "en": "textured paste and acrylic, 50x50, 2023",
+      "cz": "text.pasta, akryl, 50x50, 2023"
+    },
+    "image": "./gallery/flowers/flower_with_texture.jpg",
+    "thumbnail": "./gallery/flowers/thumbnails/flower_with_texture.jpg",
+    "category": "flowers"
+  },
+  {
+    "id": 18,
+    "title": {
+      "en": "Flowers in a Glass Vase",
+      "cz": "Kytky ve skleněné váze"
+    },
+    "description": {
+      "en": "oil painting, 50x50, 2024",
+      "cz": "olejomalba, 50x50, 2024"
+    },
+    "image": "./gallery/flowers/flowers_in_a_glass_vase.jpg",
+    "thumbnail": "./gallery/flowers/thumbnails/flowers_in_a_glass_vase.jpg",
+    "category": "flowers"
+  },
+  {
+    "id": 19,
+    "title": {
+      "en": "Flowers in a Vase",
+      "cz": "Kytky ve váze"
+    },
+    "description": {
+      "en": "oil painting, 40x50, 2023",
+      "cz": "olejomalba, 40x50, 2023"
+    },
+    "image": "./gallery/flowers/flowers_in_a_vase.jpg",
+    "thumbnail": "./gallery/flowers/thumbnails/flowers_in_a_vase.jpg",
+    "category": "flowers"
   }
 ]
