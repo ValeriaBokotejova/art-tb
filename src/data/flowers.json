@@ -264,5 +264,495 @@
     "image": "./gallery/flowers/flowers_in_a_vase.jpg",
     "thumbnail": "./gallery/flowers/thumbnails/flowers_in_a_vase.jpg",
     "category": "flowers"
+  },
+  {
+    "id": 20,
+    "title": {
+      "en": "Flowers in a Vase with Texture",
+      "cz": "Kytky ve váze"
+    },
+    "description": {
+      "en": "textured paste and acrylic, 40x50, 2023",
+      "cz": "text. pasta, akryl, 40x50, 2023"
+    },
+    "image": "./gallery/flowers/flowers_in_a_vase_texture.jpg",
+    "thumbnail": "./gallery/flowers/thumbnails/flowers_in_a_vase_texture.jpg",
+    "category": "flowers"
+  },
+  {
+    "id": 21,
+    "title": {
+      "en": "Flowers",
+      "cz": "Kytky"
+    },
+    "description": {
+      "en": "oil painting, 20x30, 2022",
+      "cz": "olejomalba, 20x30, 2022"
+    },
+    "image": "./gallery/flowers/flowers.jpg",
+    "thumbnail": "./gallery/flowers/thumbnails/flowers.jpg",
+    "category": "flowers"
+  },
+  {
+    "id": 22,
+    "title": {
+      "en": "Flowers",
+      "cz": "Kytky"
+    },
+    "description": {
+      "en": "oil painting, 50x50, 2023",
+      "cz": "olejomalba, 50x50, 2023"
+    },
+    "image": "./gallery/flowers/flowers_50x50.jpg",
+    "thumbnail": "./gallery/flowers/thumbnails/flowers_50x50.jpg",
+    "category": "flowers"
+  },
+  {
+    "id": 23,
+    "title": {
+      "en": "Lilies",
+      "cz": "Lilie"
+    },
+    "description": {
+      "en": "oil painting, 40x50, 2023",
+      "cz": "olejomalba, 40x50, 2023"
+    },
+    "image": "./gallery/flowers/lilies.jpg",
+    "thumbnail": "./gallery/flowers/thumbnails/lilies.jpg",
+    "category": "flowers"
+  },
+  {
+    "id": 24,
+    "title": {
+      "en": "Leaf",
+      "cz": "List"
+    },
+    "description": {
+      "en": "acrylic and textured paste, 30x40, 2023",
+      "cz": "akryl, text. pasta, 30x40, 2023"
+    },
+    "image": "./gallery/flowers/leaf.jpg",
+    "thumbnail": "./gallery/flowers/thumbnails/leaf.jpg",
+    "category": "flowers"
+  },
+  {
+    "id": 25,
+    "title": {
+      "en": "Leaf with Texture",
+      "cz": "List"
+    },
+    "description": {
+      "en": "textured paste and acrylic, 40x50, 2023",
+      "cz": "text. pasta, akryl, 40x50, 2023"
+    },
+    "image": "./gallery/flowers/leaf_with_texture.jpg",
+    "thumbnail": "./gallery/flowers/thumbnails/leaf_with_texture.jpg",
+    "category": "flowers"
+  },
+  {
+    "id": 26,
+    "title": {
+      "en": "Magnolias",
+      "cz": "Magnolie"
+    },
+    "description": {
+      "en": "textured paste and acrylic, 50x50, 2022",
+      "cz": "text.pasta, akryl, 50x50, 2022"
+    },
+    "image": "./gallery/flowers/magnolias.jpg",
+    "thumbnail": "./gallery/flowers/thumbnails/magnolias.jpg",
+    "category": "flowers"
+  },
+  {
+    "id": 27,
+    "title": {
+      "en": "Poppies",
+      "cz": "Máky"
+    },
+    "description": {
+      "en": "oil painting, 40x50, 2023",
+      "cz": "olejomalba, 40x50, 2023"
+    },
+    "image": "./gallery/flowers/poppies.jpg",
+    "thumbnail": "./gallery/flowers/thumbnails/poppies.jpg",
+    "category": "flowers"
+  },
+  {
+    "id": 28,
+    "title": {
+      "en": "Mimosa",
+      "cz": "Mimóza"
+    },
+    "description": {
+      "en": "oil painting, 50x70, 2024",
+      "cz": "olejomalba, 50x70, 2024"
+    },
+    "image": "./gallery/flowers/mimosa.jpg",
+    "thumbnail": "./gallery/flowers/thumbnails/mimosa.jpg",
+    "category": "flowers"
+  },
+  {
+    "id": 29,
+    "title": {
+      "en": "Blue Aquilegia",
+      "cz": "Modrá Aquilegia"
+    },
+    "description": {
+      "en": "acrylic, 30x40, 2022",
+      "cz": "akryl, 30x40, 2022"
+    },
+    "image": "./gallery/flowers/blue_aquilegia.jpg",
+    "thumbnail": "./gallery/flowers/thumbnails/blue_aquilegia.jpg",
+    "category": "flowers"
+  },
+  {
+    "id": 30,
+    "title": {
+      "en": "Orange Buttercup",
+      "cz": "Oranžový pryskyřnik"
+    },
+    "description": {
+      "en": "oil painting, 50x50, 2023",
+      "cz": "olejomalba, 50x50, 2023"
+    },
+    "image": "./gallery/flowers/orange_buttercup.jpg",
+    "thumbnail": "./gallery/flowers/thumbnails/orange_buttercup.jpg",
+    "category": "flowers"
+  },
+  {
+    "id": 31,
+    "title": {
+      "en": "Peony",
+      "cz": "Pion"
+    },
+    "description": {
+      "en": "oil painting, 30x40, 2023",
+      "cz": "olejomalba, 30x40, 2023"
+    },
+    "image": "./gallery/flowers/peony.jpg",
+    "thumbnail": "./gallery/flowers/thumbnails/peony.jpg",
+    "category": "flowers"
+  },
+  {
+    "id": 32,
+    "title": {
+      "en": "Peony",
+      "cz": "Pion"
+    },
+    "description": {
+      "en": "oil painting, 40x40, 2023",
+      "cz": "olejomalba, 40x40, 2023"
+    },
+    "image": "./gallery/flowers/peony_40x40.jpg",
+    "thumbnail": "./gallery/flowers/thumbnails/peony_40x40.jpg",
+    "category": "flowers"
+  },
+  {
+    "id": 33,
+    "title": {
+      "en": "Peony",
+      "cz": "Pion"
+    },
+    "description": {
+      "en": "oil painting, 40x40, 2024",
+      "cz": "olejomalba, 40x40, 2024"
+    },
+    "image": "./gallery/flowers/peony_2024.jpg",
+    "thumbnail": "./gallery/flowers/thumbnails/peony_2024.jpg",
+    "category": "flowers"
+  },
+  {
+    "id": 34,
+    "title": {
+      "en": "Peonies After the Rain",
+      "cz": "Pivoňky po deští"
+    },
+    "description": {
+      "en": "oil painting, 50x70, 2024",
+      "cz": "olejomalba, 50x70, 2024"
+    },
+    "image": "./gallery/flowers/peonies_after_rain.jpg",
+    "thumbnail": "./gallery/flowers/thumbnails/peonies_after_rain.jpg",
+    "category": "flowers"
+  },
+  {
+    "id": 35,
+    "title": {
+      "en": "Peonies with Strawberries",
+      "cz": "Pivoňky s jahody"
+    },
+    "description": {
+      "en": "oil painting, 50x70, 2023",
+      "cz": "olejomalba, 50x70, 2023"
+    },
+    "image": "./gallery/flowers/peonies_with_strawberries.jpg",
+    "thumbnail": "./gallery/flowers/thumbnails/peonies_with_strawberries.jpg",
+    "category": "flowers"
+  },
+  {
+    "id": 36,
+    "title": {
+      "en": "Peonies with Cherries",
+      "cz": "Pivoňky s višní"
+    },
+    "description": {
+      "en": "oil painting, 50x50, 2024",
+      "cz": "olejomalba, 50x50, 2024"
+    },
+    "image": "./gallery/flowers/peonies_with_cherries.jpg",
+    "thumbnail": "./gallery/flowers/thumbnails/peonies_with_cherries.jpg",
+    "category": "flowers"
+  },
+  {
+    "id": 37,
+    "title": {
+      "en": "Peonies",
+      "cz": "Pivoňky"
+    },
+    "description": {
+      "en": "acrylic, 40x40, 2023",
+      "cz": "akryl, 40x40, 2023"
+    },
+    "image": "./gallery/flowers/peonies_acrylic.jpg",
+    "thumbnail": "./gallery/flowers/thumbnails/peonies_acrylic.jpg",
+    "category": "flowers"
+  },
+  {
+    "id": 38,
+    "title": {
+      "en": "Peonies",
+      "cz": "Pivoňky"
+    },
+    "description": {
+      "en": "oil painting, 50x50, 2024",
+      "cz": "olejomalba, 50x50, 2024"
+    },
+    "image": "./gallery/flowers/peonies_oil.jpg",
+    "thumbnail": "./gallery/flowers/thumbnails/peonies_oil.jpg",
+    "category": "flowers"
+  },
+  {
+    "id": 39,
+    "title": {
+      "en": "View from the Window",
+      "cz": "Pohled z okna"
+    },
+    "description": {
+      "en": "oil painting, 50x50, 2024, author's artwork",
+      "cz": "olejomalba, 50x50, 2024, aut. obraz"
+    },
+    "image": "./gallery/flowers/view_from_window.jpg",
+    "thumbnail": "./gallery/flowers/thumbnails/view_from_window.jpg",
+    "category": "flowers"
+  },
+  {
+    "id": 40,
+    "title": {
+      "en": "Field Flowers",
+      "cz": "Polní kytky"
+    },
+    "description": {
+      "en": "oil painting, 50x50, 2024",
+      "cz": "olejomalba, 50x50, 2024"
+    },
+    "image": "./gallery/flowers/field_flowers.jpg",
+    "thumbnail": "./gallery/flowers/thumbnails/field_flowers.jpg",
+    "category": "flowers"
+  },
+  {
+    "id": 41,
+    "title": {
+      "en": "Flower Bouquet",
+      "cz": "Puket kýtek"
+    },
+    "description": {
+      "en": "oil painting, 40x60, 2024",
+      "cz": "olejomalba, 40x60, 2024"
+    },
+    "image": "./gallery/flowers/flower_bouquet.jpg",
+    "thumbnail": "./gallery/flowers/thumbnails/flower_bouquet.jpg",
+    "category": "flowers"
+  },
+  {
+    "id": 42,
+    "title": {
+      "en": "Roses and Melon",
+      "cz": "Růže a meloun"
+    },
+    "description": {
+      "en": "oil painting, 40x40, 2024",
+      "cz": "olejomalba, 40x40, 2024"
+    },
+    "image": "./gallery/flowers/roses_and_melon.jpg",
+    "thumbnail": "./gallery/flowers/thumbnails/roses_and_melon.jpg",
+    "category": "flowers"
+  },
+  {
+    "id": 43,
+    "title": {
+      "en": "Roses in a Basket",
+      "cz": "Růže v košiku"
+    },
+    "description": {
+      "en": "oil painting, 40x60, 2023",
+      "cz": "olejomalba, 40x60, 2023"
+    },
+    "image": "./gallery/flowers/roses_in_basket.jpg",
+    "thumbnail": "./gallery/flowers/thumbnails/roses_in_basket.jpg",
+    "category": "flowers"
+  },
+  {
+    "id": 44,
+    "title": {
+      "en": "Rose",
+      "cz": "Růže"
+    },
+    "description": {
+      "en": "oil painting, 20x30, 2024",
+      "cz": "olejomalba, 20x30, 2024"
+    },
+    "image": "./gallery/flowers/rose_20x30.jpg",
+    "thumbnail": "./gallery/flowers/thumbnails/rose_20x30.jpg",
+    "category": "flowers"
+  },
+  {
+    "id": 45,
+    "title": {
+      "en": "Rose",
+      "cz": "Růže"
+    },
+    "description": {
+      "en": "oil painting, 30x40, 2024",
+      "cz": "olejomalba, 30x40, 2024"
+    },
+    "image": "./gallery/flowers/rose_30x40.jpg",
+    "thumbnail": "./gallery/flowers/thumbnails/rose_30x40.jpg",
+    "category": "flowers"
+  },
+  {
+    "id": 46,
+    "title": {
+      "en": "Rose with Texture",
+      "cz": "Růže"
+    },
+    "description": {
+      "en": "oil painting with textured paste, 40x50, 2022",
+      "cz": "olejomalba, text.pasta, 40x50, 2022"
+    },
+    "image": "./gallery/flowers/rose_texture.jpg",
+    "thumbnail": "./gallery/flowers/thumbnails/rose_texture.jpg",
+    "category": "flowers"
+  },
+  {
+    "id": 47,
+    "title": {
+      "en": "Rose with Texture",
+      "cz": "Růže"
+    },
+    "description": {
+      "en": "textured paste and oil painting, 40x40, 2023",
+      "cz": "text.pasta, olejomalba, 40x40, 2023"
+    },
+    "image": "./gallery/flowers/rose_texture_40x40.jpg",
+    "thumbnail": "./gallery/flowers/thumbnails/rose_texture_40x40.jpg",
+    "category": "flowers"
+  },
+  {
+    "id": 48,
+    "title": {
+      "en": "Acrylic Flow, Free Theme",
+      "cz": "Řidký akryl, volní téma"
+    },
+    "description": {
+      "en": "acrylic, 30x40, 2022",
+      "cz": "akryl, 30x40, 2022"
+    },
+    "image": "./gallery/flowers/acrylic_flow.jpg",
+    "thumbnail": "./gallery/flowers/thumbnails/acrylic_flow.jpg",
+    "category": "flowers"
+  },
+  {
+    "id": 49,
+    "title": {
+      "en": "Sunflowers",
+      "cz": "Slunečnice"
+    },
+    "description": {
+      "en": "oil painting, 50x70, 2023",
+      "cz": "olejomalba, 50x70, 2023"
+    },
+    "image": "./gallery/flowers/sunflowers.jpg",
+    "thumbnail": "./gallery/flowers/thumbnails/sunflowers.jpg",
+    "category": "flowers"
+  },
+  {
+    "id": 50,
+    "title": {
+      "en": "Sunflowers with Palette Knife",
+      "cz": "Slunečnice"
+    },
+    "description": {
+      "en": "oil painting with palette knife, 50x50, 2023",
+      "cz": "olejomalba, špátel, 50x50, 2023"
+    },
+    "image": "./gallery/flowers/sunflowers_palette_knife.jpg",
+    "thumbnail": "./gallery/flowers/thumbnails/sunflowers_palette_knife.jpg",
+    "category": "flowers"
+  },
+  {
+    "id": 51,
+    "title": {
+      "en": "Lilac",
+      "cz": "Šeřík"
+    },
+    "description": {
+      "en": "oil painting, 50x70, 2024",
+      "cz": "olejomalba, 50x70, 2024"
+    },
+    "image": "./gallery/flowers/lilac.jpg",
+    "thumbnail": "./gallery/flowers/thumbnails/lilac.jpg",
+    "category": "flowers"
+  },
+  {
+    "id": 52,
+    "title": {
+      "en": "Dragonfly on Roses",
+      "cz": "Váška na růžech"
+    },
+    "description": {
+      "en": "oil painting, 50x50, 2023",
+      "cz": "olejomalba, 50x50, 2023"
+    },
+    "image": "./gallery/flowers/dragonfly_on_roses.jpg",
+    "thumbnail": "./gallery/flowers/thumbnails/dragonfly_on_roses.jpg",
+    "category": "flowers"
+  },
+  {
+    "id": 53,
+    "title": {
+      "en": "Golden Feather",
+      "cz": "Zlaté pero"
+    },
+    "description": {
+      "en": "textured paste with gold, 30x40, 2024",
+      "cz": "text.pasta, zláto, 30x40, 2024"
+    },
+    "image": "./gallery/flowers/golden_feather.jpg",
+    "thumbnail": "./gallery/flowers/thumbnails/golden_feather.jpg",
+    "category": "flowers"
+  },
+  {
+    "id": 54,
+    "title": {
+      "en": "Magnolias",
+      "cz": "Magnolie"
+    },
+    "description": {
+      "en": "textured paste and acrylic, 50x50, 2022",
+      "cz": "text.pasta, akryl, 50x50, 2022"
+    },
+    "image": "./gallery/flowers/magnolias_1.jpg",
+    "thumbnail": "./gallery/flowers/thumbnails/magnolias_1.jpg",
+    "category": "flowers"
   }
 ]
