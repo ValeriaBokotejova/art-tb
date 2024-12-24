@@ -194,5 +194,89 @@
     "image": "./gallery/animals/storks_on_the_roof.jpg",
     "thumbnail": "./gallery/animals/thumbnails/storks_on_the_roof.jpg",
     "category": "animals"
+  },
+  {
+    "id": 15,
+    "title": {
+      "en": "Rooster",
+      "cz": "Kohout"
+    },
+    "description": {
+      "en": "oil painting, 50x50, 2023",
+      "cz": "olejomalba, 50x50, 2023"
+    },
+    "image": "./gallery/animals/rooster.jpg",
+    "thumbnail": "./gallery/animals/thumbnails/rooster.jpg",
+    "category": "animals"
+  },
+  {
+    "id": 16,
+    "title": {
+      "en": "Rabbit",
+      "cz": "Kralík"
+    },
+    "description": {
+      "en": "oil painting, 50x50, 2023",
+      "cz": "olejomalba, 50x50, 2023"
+    },
+    "image": "./gallery/animals/rabbit.jpg",
+    "thumbnail": "./gallery/animals/thumbnails/rabbit.jpg",
+    "category": "animals"
+  },
+  {
+    "id": 17,
+    "title": {
+      "en": "Swan",
+      "cz": "Labudí"
+    },
+    "description": {
+      "en": "acrylic, 20x30, 2022",
+      "cz": "akryl, 20x30, 2022"
+    },
+    "image": "./gallery/animals/swan.jpg",
+    "thumbnail": "./gallery/animals/thumbnails/swan.jpg",
+    "category": "animals"
+  },
+  {
+    "id": 18,
+    "title": {
+      "en": "Lion",
+      "cz": "Lev"
+    },
+    "description": {
+      "en": "oil painting, 50x50, 2023",
+      "cz": "olejomalba, 50x50, 2023"
+    },
+    "image": "./gallery/animals/lion.jpg",
+    "thumbnail": "./gallery/animals/thumbnails/lion.jpg",
+    "category": "animals"
+  },
+  {
+    "id": 19,
+    "title": {
+      "en": "Fox with a Rose",
+      "cz": "Liška s růží"
+    },
+    "description": {
+      "en": "oil painting, 40x40, 2023",
+      "cz": "olejomalba, 40x40, 2023"
+    },
+    "image": "./gallery/animals/fox_with_a_rose.jpg",
+    "thumbnail": "./gallery/animals/thumbnails/fox_with_a_rose.jpg",
+    "category": "animals"
+  },
+  {
+    "id": 20,
+    "title": {
+      "en": "Lion Family",
+      "cz": "Lví rodina"
+    },
+    "description": {
+      "en": "oil painting, 50x50, 2023",
+      "cz": "olejomalba, 50x50, 2023"
+    },
+    "image": "./gallery/animals/lion_family.jpg",
+    "thumbnail": "./gallery/animals/thumbnails/lion_family.jpg",
+    "category": "animals"
   }
 ]
