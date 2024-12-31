@@ -124,5 +124,47 @@
     "image": "./gallery/fruits/bowl_with_crayfish.jpg",
     "thumbnail": "./gallery/fruits/thumbnails/bowl_with_crayfish.jpg",
     "category": "fruits"
+  },
+  {
+    "id": 10,
+    "title": {
+      "en": "Fruit",
+      "cz": "Ovoce"
+    },
+    "description": {
+      "en": "oil painting, 40x30, 2023",
+      "cz": "olejomalba, 40x30, 2023"
+    },
+    "image": "./gallery/fruits/fruit_40x30.jpg",
+    "thumbnail": "./gallery/fruits/thumbnails/fruit_40x30.jpg",
+    "category": "fruits"
+  },
+  {
+    "id": 11,
+    "title": {
+      "en": "Fruit",
+      "cz": "Ovoce"
+    },
+    "description": {
+      "en": "oil painting, 40x40, 2023",
+      "cz": "olejomalba, 40x40, 2023"
+    },
+    "image": "./gallery/fruits/fruit_40x40.jpg",
+    "thumbnail": "./gallery/fruits/thumbnails/fruit_40x40.jpg",
+    "category": "fruits"
+  },
+  {
+    "id": 12,
+    "title": {
+      "en": "Wine Glass",
+      "cz": "Pohár vina"
+    },
+    "description": {
+      "en": "oil painting, 40x50, 2023",
+      "cz": "olejomalba, 40x50, 2023"
+    },
+    "image": "./gallery/fruits/wine_glass.jpg",
+    "thumbnail": "./gallery/fruits/thumbnails/wine_glass.jpg",
+    "category": "fruits"
   }
 ]
