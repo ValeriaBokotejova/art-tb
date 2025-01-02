@@ -194,5 +194,47 @@
     "image": "./gallery/people/pirate_woman.jpg",
     "thumbnail": "./gallery/people/thumbnails/pirate_woman.jpg",
     "category": "people"
+  },
+  {
+    "id": 15,
+    "title": {
+      "en": "Under the Open Sky",
+      "cz": "Pod širým nebem"
+    },
+    "description": {
+      "en": "oil painting, 60x60, 2023",
+      "cz": "olejomalba, 60x60, 2023"
+    },
+    "image": "./gallery/people/under_open_sky.jpg",
+    "thumbnail": "./gallery/people/thumbnails/under_open_sky.jpg",
+    "category": "people"
+  },
+  {
+    "id": 16,
+    "title": {
+      "en": "Statue",
+      "cz": "Soška"
+    },
+    "description": {
+      "en": "palette knife, texture paste, oil painting, 40x50, 2024",
+      "cz": "špatel, text. pasta, olejomalba, 40x50, 2024"
+    },
+    "image": "./gallery/people/statue.jpg",
+    "thumbnail": "./gallery/people/thumbnails/statue.jpg",
+    "category": "people"
+  },
+  {
+    "id": 17,
+    "title": {
+      "en": "Fairies",
+      "cz": "Víly"
+    },
+    "description": {
+      "en": "acrylic, 40x40, 2022",
+      "cz": "akryl, 40x40, 2022"
+    },
+    "image": "./gallery/people/fairies.jpg",
+    "thumbnail": "./gallery/people/thumbnails/fairies.jpg",
+    "category": "people"
   }
 ]
