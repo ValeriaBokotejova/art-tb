@@ -166,5 +166,47 @@
     "image": "./gallery/fruits/wine_glass.jpg",
     "thumbnail": "./gallery/fruits/thumbnails/wine_glass.jpg",
     "category": "fruits"
+  },
+  {
+    "id": 13,
+    "title": {
+      "en": "View from the Window",
+      "cz": "Pohled z okna"
+    },
+    "description": {
+      "en": "oil painting, 50x50, 2023",
+      "cz": "olejomalba, 50x50, 2023"
+    },
+    "image": "./gallery/fruits/view_from_window.jpg",
+    "thumbnail": "./gallery/fruits/thumbnails/view_from_window.jpg",
+    "category": "fruits"
+  },
+  {
+    "id": 14,
+    "title": {
+      "en": "Orange",
+      "cz": "Pomeranč"
+    },
+    "description": {
+      "en": "oil painting, 20x30, 2024",
+      "cz": "olejomalba, 20x30, 2024"
+    },
+    "image": "./gallery/fruits/orange_20x30.jpg",
+    "thumbnail": "./gallery/fruits/thumbnails/orange_20x30.jpg",
+    "category": "fruits"
+  },
+  {
+    "id": 15,
+    "title": {
+      "en": "Orange",
+      "cz": "Pomeranč"
+    },
+    "description": {
+      "en": "oil painting, 40x40, 2024",
+      "cz": "olejomalba, 40x40, 2024"
+    },
+    "image": "./gallery/fruits/orange_40x40.jpg",
+    "thumbnail": "./gallery/fruits/thumbnails/orange_40x40.jpg",
+    "category": "fruits"
   }
 ]
