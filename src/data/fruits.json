@@ -208,5 +208,47 @@
     "image": "./gallery/fruits/orange_40x40.jpg",
     "thumbnail": "./gallery/fruits/thumbnails/orange_40x40.jpg",
     "category": "fruits"
+  },
+  {
+    "id": 16,
+    "title": {
+      "en": "Porcelain Vase",
+      "cz": "Porcelánová váza"
+    },
+    "description": {
+      "en": "oil painting, 40x50, 2023",
+      "cz": "olejomalba, 40x50, 2023"
+    },
+    "image": "./gallery/fruits/porcelain_vase.jpg",
+    "thumbnail": "./gallery/fruits/thumbnails/porcelain_vase.jpg",
+    "category": "fruits"
+  },
+  {
+    "id": 17,
+    "title": {
+      "en": "Wild Mushrooms",
+      "cz": "Pravé houby"
+    },
+    "description": {
+      "en": "watercolor, 20x30, 2022",
+      "cz": "akvarel, 20x30, 2022"
+    },
+    "image": "./gallery/fruits/wild_mushrooms_watercolor.jpg",
+    "thumbnail": "./gallery/fruits/thumbnails/wild_mushrooms_watercolor.jpg",
+    "category": "fruits"
+  },
+  {
+    "id": 18,
+    "title": {
+      "en": "Wild Mushrooms",
+      "cz": "Pravé houby"
+    },
+    "description": {
+      "en": "oil painting, 40x50, 2023",
+      "cz": "olejomalba, 40x50, 2023"
+    },
+    "image": "./gallery/fruits/wild_mushrooms_oil.jpg",
+    "thumbnail": "./gallery/fruits/thumbnails/wild_mushrooms_oil.jpg",
+    "category": "fruits"
   }
 ]
