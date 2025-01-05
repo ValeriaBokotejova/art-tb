@@ -250,5 +250,47 @@
     "image": "./gallery/fruits/wild_mushrooms_oil.jpg",
     "thumbnail": "./gallery/fruits/thumbnails/wild_mushrooms_oil.jpg",
     "category": "fruits"
+  },
+  {
+    "id": 19,
+    "title": {
+      "en": "Cheese Platter",
+      "cz": "Sýrová mísa"
+    },
+    "description": {
+      "en": "oil painting, 50x70, 2024",
+      "cz": "olejomalba, 50x70, 2024"
+    },
+    "image": "./gallery/fruits/cheese_platter.jpg",
+    "thumbnail": "./gallery/fruits/thumbnails/cheese_platter.jpg",
+    "category": "fruits"
+  },
+  {
+    "id": 20,
+    "title": {
+      "en": "Juicy Lemons",
+      "cz": "Šťavnaté citrony"
+    },
+    "description": {
+      "en": "oil painting, 40x60, 2024",
+      "cz": "olejomalba, 40x60, 2024"
+    },
+    "image": "./gallery/fruits/juicy_lemons.jpg",
+    "thumbnail": "./gallery/fruits/thumbnails/juicy_lemons.jpg",
+    "category": "fruits"
+  },
+  {
+    "id": 21,
+    "title": {
+      "en": "Juicy Pomegranates",
+      "cz": "Šťavnatá granátová jablka"
+    },
+    "description": {
+      "en": "oil painting, 40x60, 2024",
+      "cz": "olejomalba, 40x60, 2024"
+    },
+    "image": "./gallery/fruits/juicy_pomegranates.jpg",
+    "thumbnail": "./gallery/fruits/thumbnails/juicy_pomegranates.jpg",
+    "category": "fruits"
   }
 ]
