@@ -292,5 +292,47 @@
     "image": "./gallery/fruits/juicy_pomegranates.jpg",
     "thumbnail": "./gallery/fruits/thumbnails/juicy_pomegranates.jpg",
     "category": "fruits"
+  },
+  {
+    "id": 22,
+    "title": {
+      "en": "Juicy Pears",
+      "cz": "Šťavnaté hrušky"
+    },
+    "description": {
+      "en": "oil painting, 40x50, 2023",
+      "cz": "olejomalba, 40x50, 2023"
+    },
+    "image": "./gallery/fruits/juicy_pears.jpg",
+    "thumbnail": "./gallery/fruits/thumbnails/juicy_pears.jpg",
+    "category": "fruits"
+  },
+  {
+    "id": 23,
+    "title": {
+      "en": "Evening Calm",
+      "cz": "Večerní klid"
+    },
+    "description": {
+      "en": "oil painting, 50x70, 2023",
+      "cz": "olejomalba, 50x70, 2023"
+    },
+    "image": "./gallery/fruits/evening_calm.jpg",
+    "thumbnail": "./gallery/fruits/thumbnails/evening_calm.jpg",
+    "category": "fruits"
+  },
+  {
+    "id": 24,
+    "title": {
+      "en": "Rustic Still Life",
+      "cz": "Venkovské zátiší"
+    },
+    "description": {
+      "en": "oil painting, 50x70, 2024",
+      "cz": "olejomalba, 50x70, 2024"
+    },
+    "image": "./gallery/fruits/rustic_still_life.jpg",
+    "thumbnail": "./gallery/fruits/thumbnails/rustic_still_life.jpg",
+    "category": "fruits"
   }
 ]
