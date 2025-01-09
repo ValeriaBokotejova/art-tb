@@ -334,5 +334,33 @@
     "image": "./gallery/fruits/rustic_still_life.jpg",
     "thumbnail": "./gallery/fruits/thumbnails/rustic_still_life.jpg",
     "category": "fruits"
+  },
+  {
+    "id": 25,
+    "title": {
+      "en": "Still Life with Fruit",
+      "cz": "Zátiší s ovocem"
+    },
+    "description": {
+      "en": "oil painting, 50x50, 2024",
+      "cz": "olejomalba, 50x50, 2024"
+    },
+    "image": "./gallery/fruits/still_life_with_fruit.jpg",
+    "thumbnail": "./gallery/fruits/thumbnails/still_life_with_fruit.jpg",
+    "category": "fruits"
+  },
+  {
+    "id": 26,
+    "title": {
+      "en": "Ripe Sour Cherry",
+      "cz": "Zrálá višeň"
+    },
+    "description": {
+      "en": "oil painting, 30x40, 2024",
+      "cz": "olejomalba, 30x40, 2024"
+    },
+    "image": "./gallery/fruits/ripe_sour_cherry.jpg",
+    "thumbnail": "./gallery/fruits/thumbnails/ripe_sour_cherry.jpg",
+    "category": "fruits"
   }
 ]
