@@ -320,5 +320,33 @@
     "image": "./gallery/nature/my_birches.jpg",
     "thumbnail": "./gallery/nature/thumbnails/my_birches.jpg",
     "category": "nature"
+  },
+  {
+    "id": 24,
+    "title": {
+      "en": "Bridge in Bruges",
+      "cz": "Most v Bruggách"
+    },
+    "description": {
+      "en": "oil painting, 30x40, 2024",
+      "cz": "olejomalba, 30x40, 2024"
+    },
+    "image": "./gallery/nature/bridge_in_bruges.jpg",
+    "thumbnail": "./gallery/nature/thumbnails/bridge_in_bruges.jpg",
+    "category": "nature"
+  },
+  {
+    "id": 25,
+    "title": {
+      "en": "Village",
+      "cz": "Obec"
+    },
+    "description": {
+      "en": "oil painting, 50x50, 2024",
+      "cz": "olejomalba, 50x50, 2024"
+    },
+    "image": "./gallery/nature/village.jpg",
+    "thumbnail": "./gallery/nature/thumbnails/village.jpg",
+    "category": "nature"
   }
 ]
