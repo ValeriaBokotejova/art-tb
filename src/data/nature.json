@@ -278,5 +278,47 @@
     "image": "./gallery/nature/winter.jpg",
     "thumbnail": "./gallery/nature/thumbnails/winter.jpg",
     "category": "nature"
+  },
+  {
+    "id": 21,
+    "title": {
+      "en": "Cave",
+      "cz": "Jeskyně"
+    },
+    "description": {
+      "en": "oil painting, 50x50, 2023",
+      "cz": "olejomalba, 50x50, 2023"
+    },
+    "image": "./gallery/nature/cave.jpg",
+    "thumbnail": "./gallery/nature/thumbnails/cave.jpg",
+    "category": "nature"
+  },
+  {
+    "id": 22,
+    "title": {
+      "en": "Resort",
+      "cz": "Letovisko"
+    },
+    "description": {
+      "en": "oil painting, 50x70, 2024",
+      "cz": "olejomalba, 50x70, 2024"
+    },
+    "image": "./gallery/nature/resort.jpg",
+    "thumbnail": "./gallery/nature/thumbnails/resort.jpg",
+    "category": "nature"
+  },
+  {
+    "id": 23,
+    "title": {
+      "en": "My Birches",
+      "cz": "Moje břízy"
+    },
+    "description": {
+      "en": "oil painting, 50x70, 2023",
+      "cz": "olejomalba, 50x70, 2023"
+    },
+    "image": "./gallery/nature/my_birches.jpg",
+    "thumbnail": "./gallery/nature/thumbnails/my_birches.jpg",
+    "category": "nature"
   }
 ]
