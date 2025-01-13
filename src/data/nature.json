@@ -348,5 +348,47 @@
     "image": "./gallery/nature/village.jpg",
     "thumbnail": "./gallery/nature/thumbnails/village.jpg",
     "category": "nature"
+  },
+  {
+    "id": 26,
+    "title": {
+      "en": "Autumn in the Mountains",
+      "cz": "Podzim v horách"
+    },
+    "description": {
+      "en": "oil painting, 50x70, 2023",
+      "cz": "olejomalba, 50x70, 2023"
+    },
+    "image": "./gallery/nature/autumn_in_the_mountains.jpg",
+    "thumbnail": "./gallery/nature/thumbnails/autumn_in_the_mountains.jpg",
+    "category": "nature"
+  },
+  {
+    "id": 27,
+    "title": {
+      "en": "Autumn",
+      "cz": "Podzim"
+    },
+    "description": {
+      "en": "acrylic, 20x30, 2023",
+      "cz": "akryl, 20x30, 2023"
+    },
+    "image": "./gallery/nature/autumn_acrylic.jpg",
+    "thumbnail": "./gallery/nature/thumbnails/autumn_acrylic.jpg",
+    "category": "nature"
+  },
+  {
+    "id": 28,
+    "title": {
+      "en": "Autumn",
+      "cz": "Podzim"
+    },
+    "description": {
+      "en": "oil painting, 50x70, 2023",
+      "cz": "olejomalba, 50x70, 2023"
+    },
+    "image": "./gallery/nature/autumn_oil.jpg",
+    "thumbnail": "./gallery/nature/thumbnails/autumn_oil.jpg",
+    "category": "nature"
   }
 ]
