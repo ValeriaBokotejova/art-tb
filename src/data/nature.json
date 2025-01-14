@@ -390,5 +390,33 @@
     "image": "./gallery/nature/autumn_oil.jpg",
     "thumbnail": "./gallery/nature/thumbnails/autumn_oil.jpg",
     "category": "nature"
+  },
+  {
+    "id": 29,
+    "title": {
+      "en": "Autumn Forest",
+      "cz": "Podzimní les"
+    },
+    "description": {
+      "en": "oil painting, 50x70, 2023",
+      "cz": "olejomalba, 50x70, 2023"
+    },
+    "image": "./gallery/nature/autumn_forest.jpg",
+    "thumbnail": "./gallery/nature/thumbnails/autumn_forest.jpg",
+    "category": "nature"
+  },
+  {
+    "id": 30,
+    "title": {
+      "en": "Autumn Waterfall",
+      "cz": "Podzimní vodopád"
+    },
+    "description": {
+      "en": "oil painting, 50x70, 2024",
+      "cz": "olejomalba, 50x70, 2024"
+    },
+    "image": "./gallery/nature/autumn_waterfall.jpg",
+    "thumbnail": "./gallery/nature/thumbnails/autumn_waterfall.jpg",
+    "category": "nature"
   }
 ]
