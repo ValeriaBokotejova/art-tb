@@ -418,5 +418,33 @@
     "image": "./gallery/nature/autumn_waterfall.jpg",
     "thumbnail": "./gallery/nature/thumbnails/autumn_waterfall.jpg",
     "category": "nature"
+  },
+  {
+    "id": 31,
+    "title": {
+      "en": "Pond",
+      "cz": "Rybník"
+    },
+    "description": {
+      "en": "oil painting, 40x60, 2023",
+      "cz": "olejomalba, 40x60, 2023"
+    },
+    "image": "./gallery/nature/pond.jpg",
+    "thumbnail": "./gallery/nature/thumbnails/pond.jpg",
+    "category": "nature"
+  },
+  {
+    "id": 32,
+    "title": {
+      "en": "Trams",
+      "cz": "Tramvaje"
+    },
+    "description": {
+      "en": "oil painting, 50x50, 2023",
+      "cz": "olejomalba, 50x50, 2023"
+    },
+    "image": "./gallery/nature/trams.jpg",
+    "thumbnail": "./gallery/nature/thumbnails/trams.jpg",
+    "category": "nature"
   }
 ]
