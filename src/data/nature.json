@@ -446,5 +446,33 @@
     "image": "./gallery/nature/trams.jpg",
     "thumbnail": "./gallery/nature/thumbnails/trams.jpg",
     "category": "nature"
+  },
+  {
+    "id": 33,
+    "title": {
+      "en": "Waterfall",
+      "cz": "Vodopád"
+    },
+    "description": {
+      "en": "oil painting, 50x50, 2023",
+      "cz": "olejomalba, 50x50, 2023"
+    },
+    "image": "./gallery/nature/waterfall.jpg",
+    "thumbnail": "./gallery/nature/thumbnails/waterfall.jpg",
+    "category": "nature"
+  },
+  {
+    "id": 34,
+    "title": {
+      "en": "Winter Mountains",
+      "cz": "Zimní hory"
+    },
+    "description": {
+      "en": "oil painting, palette knife, 50x50, 2024",
+      "cz": "olejomalba, špachtle, 50x50, 2024"
+    },
+    "image": "./gallery/nature/winter_mountains.jpg",
+    "thumbnail": "./gallery/nature/thumbnails/winter_mountains.jpg",
+    "category": "nature"
   }
 ]
