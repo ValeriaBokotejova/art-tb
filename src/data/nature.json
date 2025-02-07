@@ -474,5 +474,19 @@
     "image": "./gallery/nature/winter_mountains.jpg",
     "thumbnail": "./gallery/nature/thumbnails/winter_mountains.jpg",
     "category": "nature"
+  },
+  {
+    "id": 35,
+    "title": {
+      "en": "Winter Landscape",
+      "cz": "Zimní krajina"
+    },
+    "description": {
+      "en": "oil painting, 50x50, 2024",
+      "cz": "olejomalba, 50x50, 2024"
+    },
+    "image": "./gallery/nature/winter_landscape.jpg",
+    "thumbnail": "./gallery/nature/thumbnails/winter_landscape.jpg",
+    "category": "nature"
   }
 ]
