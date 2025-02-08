@@ -488,5 +488,33 @@
     "image": "./gallery/nature/winter_landscape.jpg",
     "thumbnail": "./gallery/nature/thumbnails/winter_landscape.jpg",
     "category": "nature"
+  },
+  {
+    "id": 36,
+    "title": {
+      "en": "Winter Night",
+      "cz": "Zimní noc"
+    },
+    "description": {
+      "en": "acrylic, 20x30, 2023",
+      "cz": "akryl, 20x30, 2023"
+    },
+    "image": "./gallery/nature/winter_night.jpg",
+    "thumbnail": "./gallery/nature/thumbnails/winter_night.jpg",
+    "category": "nature"
+  },
+  {
+    "id": 37,
+    "title": {
+      "en": "Winter Fairy Tale",
+      "cz": "Zimní pohádka"
+    },
+    "description": {
+      "en": "oil painting, 50x70, 2023",
+      "cz": "olejomalba, 50x70, 2023"
+    },
+    "image": "./gallery/nature/winter_fairy_tale.jpg",
+    "thumbnail": "./gallery/nature/thumbnails/winter_fairy_tale.jpg",
+    "category": "nature"
   }
 ]
